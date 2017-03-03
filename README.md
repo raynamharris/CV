@@ -1,5 +1,5 @@
 # Rayna M. Harris
-#### Curriculum Vitae
+##### Curriculum Vitae
 
 
 ### Education
@@ -28,7 +28,7 @@ Full publication list at https://scholar.google.com/citations?user=_bVy9pMAAAAJ&
 
 February 2017: 317 citations total; h-index of 7, i10-index of 6.
 
-### Peer Reviewed Publications
+##### Peer Reviewed Publications
 
 
 16. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S,
@@ -80,7 +80,7 @@ and Comparative Endocrinology 189: 59–65.
 Mating System Variation in North American Cichlid Fishes. Hormones and
 Behavior 64:44-52.
 
-### Invited Articles and Reviews
+##### Invited Articles and Reviews
 
 
 7. **Harris RM**, O’Connell LA, Hofmann HA (2016) Brain
@@ -100,7 +100,7 @@ Sciences U. S. A. 112:1252-1253.
 Behavioral Plasticity. Advances in Experimental and Medical Biology
 781:149-68.
 
-### Reports and Editorials
+##### Reports and Editorials
 
 
 3. **Harris RM**, Otopalik AG, Smith C, Bucher D,
@@ -108,7 +108,7 @@ Golowasch J, Hofmann HA (2014) Single-Neuron Gene Expression Analysis
 Using the Maxwell 16 LEV System. bioRxiv 107342; doi:
 https://doi.org/10.1101/107342
 
-### Open Access Educational Materials
+##### Open Access Educational Materials
 
 
 2. Ahmadia A, Allen J, Banaszkiewicz P, Becker E, Bekolay T, Blischak

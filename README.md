@@ -202,7 +202,7 @@ Woods Hole, MA
 
 ### Teaching and Workshops
 
-**Lead or Co-Lead Instructor **
+*Lead or Co-Lead Instructor*
 - Integrative Molecular Neuroethology, Neural Systems & Behavior Course at
 the Marine Biological Laboratories (Summer 2013-17)
 - Instructor Training, Software Carpentry Foundation. (2016 – present)
@@ -210,13 +210,13 @@ the Marine Biological Laboratories (Summer 2013-17)
 - Software Carpentry, Software Carpentry Foundation (2015 – present)
 - Introduction to Spanish, Futura Language Professionals (2008-2009)
 
-**Teaching Assistant**
+*Teaching Assistant*
 - Introduction to Core Next-generation Sequencing Tools, Center for Computational Biology and Bioinformatics (2015,16,17)
 - BIO 301E: Problems in Modern Biology, UT Austin (2013)
 - CH 210C: Organic Chemistry Laboratory UT Austin (2007-2009)
 - CH 118K/L: Advanced Organic Chemistry Laboratory, UT Austin (2007)
 
-**Guest Lecturer**
+*Guest Lecturer*
 - Comparative Animal Physiology (BIO 361T), UT Austin.
 - Introduction to Biological Statistics, UT Austin.
 - Neurobiology of Social Behavior, University of the Republic of Uruguay.

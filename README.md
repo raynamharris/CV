@@ -1,6 +1,4 @@
 # Rayna M. Harris
-##### Curriculum Vitae
-
 
 ### Education
 

@@ -2,54 +2,52 @@
 #### Curriculum Vitae
 
 
-Education
-=========
+### Education
 
-<span>**The University of Texas at Austin**</span>, Austin, Texas, Biochemistry; B.S., 2006
 
-<span>**The University of Texas at Austin**</span>, Austin, Texas; Hans
-Hofmann Lab,  Cell & Molecular Biology; PhD., Dec. 2017
+**The University of Texas at Austin**, Austin, Texas, Biochemistry; B.S., 2006
 
-Honors and Awards
-===========
+**The University of Texas at Austin**, Austin, Texas; Hans Hofmann Lab,  Cell & Molecular Biology; PhD., Dec. 2017
+
+### Honors and Awards
+
 
 - University Graduate Continuing Fellowship, UT Austin (2016 - 2017).
 - William Livingston Outstanding Graduate Student Academic Employee Award,
 - UT Austin (2017) Academic Enrichment Fund Award, UT Austin (2014, 15, 16) 
 - Honorable mention, National Science Foundation Graduate Research Fellowship (2013, 2014)
 
-Grants
-======
+### Grants
 
-Society for Integrative and Comparative Biology, \$1,000, “Integrated
-molecular and synaptic mechanisms of hippocampal learning and memory.”
+Society for Integrative and Comparative Biology, \$1,000, “Integrated molecular and synaptic mechanisms of hippocampal learning and memory.”
 
-Publications
-============
+### Publications
+
 
 Full publication list at https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en
+
 February 2017: 317 citations total; h-index of 7, i10-index of 6.
 
-Peer Reviewed Publications
-==========================
+### Peer Reviewed Publications
 
-16. Goppert C, <span>**Harris RM**</span>, Theis A, Boila A, Hohl S,
+
+16. Goppert C, **Harris RM**, Theis A, Boila A, Hohl S,
 Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of
 aromatase induces partial sex change in a cichlid fish: Distinct
 functions for sex steroids in brains and gonads. Sexual Development
 10:97-110.
 
-15. Simoes JM, Barata EN, <span>**Harris RM**</span>, O’Connell LA,
+15. Simoes JM, Barata EN, **Harris RM**, O’Connell LA,
 Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and
 reproductive information induce rapid physiological and neuromolecular
 changes in a cichlid fish. BMC Genomics 16:114.
 
-14. Stiver KA, <span>**Harris RM**</span>, Townsend JP, Hofmann HA,
+14. Stiver KA, **Harris RM**, Townsend JP, Hofmann HA,
 Alonzo SH (2015) Behavioral and physiological examinations of
 cooperation in Symphodus ocellatus, a species with alternative male
 reproductive tactics. Ethology 121:152-167.
 
-13. Smith CC, <span>**Harris RM**</span>, Lampert KP, Schartl M,
+13. Smith CC, **Harris RM**, Lampert KP, Schartl M,
 Hofmann HA, Ryan MJ (2015) Copy number variation in the melanocortin 4
 receptor gene and alternative reproductive tactics in swordtail
 Xiphophorus multilineatus. Environmental Biology of Fishes 98:23-33.
@@ -59,11 +57,11 @@ O, Ng AY, Lim ZW, Bezault E, Turner-Maier J, Johnson J, Alcazar R, Noh
 HJ, Russell P, Aken B, Alföldi J, Amemiya C, Azzouzi N, Baroiller JF,
 Barloy-Hubler F, Berlin A, Bloomquist R, Carleton KL, Conte MA, D’Cotta
 H, Eshel O, Gaffney L, Galibert F, Gante HF, Gnerre S, Greuter L, Guyon
-R, Haddad NS, Haerty W, <span>**Harris RM**</span>, Hofmann HA, et al.
+R, Haddad NS, Haerty W, **Harris RM**, Hofmann HA, et al.
 (2014) The genomic substrate for adaptive radiation: Genomes of five
 African cichlid fish. Nature 513: 375-381
 
-11. Fischer EK, <span>**Harris RM**</span>, Hofmann HA, Hoke KL (2014) Predator exposure alters stress
+11. Fischer EK, **Harris RM**, Hofmann HA, Hoke KL (2014) Predator exposure alters stress
 physiology in guppies across timescales. Horm Behav. 65: 165–172.
 
 
@@ -72,52 +70,51 @@ HA (2014) Complex Structural and Regulatory Evolution of the
 Pro-opiomelanocortin Gene Family. General and Comparative Endocrinology
 195: 107-115.
 
-9. Sessa AK, <span>**Harris RM**</span>, Hofmann HA (2013) Sex Steroid
+9. Sessa AK, **Harris RM**, Hofmann HA (2013) Sex Steroid
 Hormones Modulate Responses to Social Challenge & Opportunity in Males
 of the Monogamous Convict Cichlid, Amatitliana nigrofasciata. General
 and Comparative Endocrinology 189: 59–65.
 
-8. Oldfield RG, <span>**Harris RM**</span>, Hendrickson DA, Hofmann HA
+8. Oldfield RG, **Harris RM**, Hendrickson DA, Hofmann HA
 (2013) Arginine Vasotocin and Prolactin Pathways are Associated with
 Mating System Variation in North American Cichlid Fishes. Hormones and
 Behavior 64:44-52.
 
-Invited Articles and Reviews
-============================
+### Invited Articles and Reviews
 
-7. <span>**Harris RM**</span>, O’Connell LA, Hofmann HA (2016) Brain
+
+7. **Harris RM**, O’Connell LA, Hofmann HA (2016) Brain
 Evolution, Development, and Plasticity, in The Wiley Handbook of
 Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd,
 Chichester, UK. doi: 10.1002/9781118316757.ch15
 
-6. Oldfield RG, <span>**Harris
-RM**</span>, Hofmann HA (2015) Integrating Resource Defence Theory with
+6. Oldfield RG, **Harris RM**, Hofmann HA (2015) Integrating Resource Defence Theory with
 Nonapeptide Expression to Explain Variation in Territory-based Mating
 Systems. Frontiers in Zoology, 12:S16.
 
-5. <span>**Harris RM**</span>, Hofmann HA (2015) Seeing is believing:
+5. **Harris RM**, Hofmann HA (2015) Seeing is believing:
 Dynamic evolution of opsin genes. Proceedings of the National Academy of
 Sciences U. S. A. 112:1252-1253.
 
-4. <span>**Harris RM**</span>, Hofmann HA (2014) Neurogenomics of
+4. **Harris RM**, Hofmann HA (2014) Neurogenomics of
 Behavioral Plasticity. Advances in Experimental and Medical Biology
 781:149-68.
 
-Reports and Editorials
-======================
+### Reports and Editorials
 
-3. <span>**Harris RM**</span>, Otopalik AG, Smith C, Bucher D,
+
+3. **Harris RM**, Otopalik AG, Smith C, Bucher D,
 Golowasch J, Hofmann HA (2014) Single-Neuron Gene Expression Analysis
 Using the Maxwell 16 LEV System. bioRxiv 107342; doi:
 https://doi.org/10.1101/107342
 
-Open Access Educational Materials
-=================================
+### Open Access Educational Materials
+
 
 2. Ahmadia A, Allen J, Banaszkiewicz P, Becker E, Bekolay T, Blischak
 J, Boughton A, Bray E, Cabunoc Mayes A, Crouch S, Davis N, Davis
 M,Duckles J, Emonet, R; Fortin, FA, Gonzalez I, Hamm C, Hansen M,
-<span>**Harris RM**</span>, Henninger F, Hinsen K, Hodge A, Jackson M,
+**Harris RM**, Henninger F, Hinsen K, Hodge A, Jackson M,
 King WT, Kitzes J, Koch C, Liversidge, T, Michonneau F, Mills B,
 Nederbragt L, O’Leary A, Patitsas E, Pawlik A, Perez F, Pipitone J,
 Poisot T, Rokem A, Silva R, Teal T, Tröndle T, Tweedie F, Vie JJ, Walker
@@ -125,12 +122,12 @@ J, Walsh A, Weaver B, White E, Wilkerson C, Williams J, Wilson G, van
 der Walt A (2016) Software Carpentry: Instructor Training. Zenodo.
 10.5281/zenodo.57571
 
-1. <span>**Harris RM**</span>,
+1. **Harris RM**,
 Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative
 Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
 
-Social Media and Blogs
-=============
+### Social Media and Blogs
+
 
 Twitter: [@raynamharris](http://twitter.com/raynamharris),
 [@texas\_cbrs](http://twitter.com/texas_cbrs), and
@@ -145,8 +142,8 @@ Workshop”](http://blogs.plos.org/neuro/2015/02/12/effective-teaching-tips-from
 [“Surprising Origins of Sex Differences in the
 Brain!”](http://blogs.plos.org/neuro/2014/12/18/plos-sfn14-highlights-surprising-origins-of-sex-differences-in-the-brain/).
 
-Invited Talks
-=============
+### Invited Talks
+
 
 - UT Tyler. Biology Department Seminar. November 9, 2016
 - UT Austin. Waggoner Center for Alcohol Addiction Seminar. May 20, 2015
@@ -156,8 +153,7 @@ into the brain”. April 11, 2015
 - University of Bergen, Bergen, Norway. NORDFORSK Behavioural Fish
 Neuroscience Network Workshop. November 16, 2012.
 
-Contributed Talks
-============
+### Contributed Talks
 
 - UT Austin. Brain, Behavior, & Evolution Graduate Seminar. October 2016
 - UT Austin. Chips & Dips Graduate Seminar. April, 6, 2016
@@ -173,8 +169,7 @@ April 20, 2013
 - University of Bergen, Bergen, Norway. NORDFORSK Behavioural Fish
 - Neuroscience Network Conference. November 12, 2012
 
-Scientific Posters
-===========
+### Scientific Posters
 
 - 2017 The Moore Foundation Early Career Researcher Symposium. WaikoloaBeach, Hawaii.
 - 2016 Society for Neuroscience Annual Meeting. San Diego, CA
@@ -192,8 +187,7 @@ Woods Hole, MA
 - 2013 Society for Behavioral Neuroendocrinology Annual Meeting. Atlanta,GA
 - 2012 Gordon Research Conference in Genes and Behavior. Galveston, TX
 
-Professional Activities
-=============
+### Professional Activities
 
 - Member, Software Carpentry Steering Committee, since March 2016
 - Co-Chair, Complementary Session to Symposium S12 - New Frontiers in the Integrative Study of Animal Behavior, Society for Integrative and Comparative Biology Annual Meeting, January 2016
@@ -208,10 +202,9 @@ Professional Activities
 - Translator for “Bienvenido al Mundo de los Hongos!”, INBio Parque, Costa Rica, 2009
 - Peer-reviewer for: Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology; Physiology & Behavior; Proceedings of the Royal Society B
 
-Teaching and Workshops
-======================
+### Teaching and Workshops
 
-<span>**Lead or Co-Lead Instructor **</span>
+**Lead or Co-Lead Instructor **
 - Integrative Molecular Neuroethology, Neural Systems & Behavior Course at
 the Marine Biological Laboratories (Summer 2013-17)
 - Instructor Training, Software Carpentry Foundation. (2016 – present)
@@ -219,18 +212,17 @@ the Marine Biological Laboratories (Summer 2013-17)
 - Software Carpentry, Software Carpentry Foundation (2015 – present)
 - Introduction to Spanish, Futura Language Professionals (2008-2009)
 
-<span>**Teaching Assistant**</span>
+**Teaching Assistant**
 - Introduction to Core Next-generation Sequencing Tools, Center for Computational Biology and Bioinformatics (2015,16,17)
 - BIO 301E: Problems in Modern Biology, UT Austin (2013)
 - CH 210C: Organic Chemistry Laboratory UT Austin (2007-2009)
 - CH 118K/L: Advanced Organic Chemistry Laboratory, UT Austin (2007)
 
-<span>**Guest Lecturer**</span>
+**Guest Lecturer**
 - Comparative Animal Physiology (BIO 361T), UT Austin.
 - Introduction to Biological Statistics, UT Austin.
 - Neurobiology of Social Behavior, University of the Republic of Uruguay.
 
-References
-==========
+### References
 
-<span>*References available upon request.*</span>
+*References available upon request.*

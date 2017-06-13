@@ -2,27 +2,19 @@
 title: "Portfolio"
 author: "Rayna M. Harris | raynamharris@github.io | @raynamharris"
 date: "June 12, 2017"
-output: ioslides_presentation
+output: beamer_presentation
 ---
 
-## Behavioral plasticity and neurogenomics  {.columns-2}
-How do mice change their behavior in response to different aversive stimuli? 
-```{r, echo=FALSE, warning=FALSE}
-library(knitr)
-include_graphics('./images/mice.png', auto_pdf = TRUE, dpi = 130)
-```
-
-How does the genome of cells in the hippocampus respond?  
+## Behavioral plasticity and neurogenomics 
 
 ```{r, echo=FALSE, warning=FALSE}
 library(knitr)
-include_graphics('./images/hippocampus.png', auto_pdf = TRUE, dpi = 1200)
+include_graphics('./images/mice.png', auto_pdf = TRUE, dpi = 260)
+include_graphics('./images/hippocampus.png', auto_pdf = TRUE, dpi = 2600)
+
 ```
-
-
-
-## Workflow for open, reproducible, and multi-discipinary research 
-One way to collect, wrangle data, data, share, stored, and vizualized data. 
+ 
+## Open, reproducible, and multi-discipinary research workflow
 
 ```{r, echo=FALSE, warning=FALSE}
 library(knitr)
@@ -31,7 +23,6 @@ include_graphics('./images/methods.png', auto_pdf = TRUE, dpi = 300)
 
 
 ## Neurogenomic plasticity 
-The goal of my thesis was to understand how the brain's genome changes in response to different stimuli.  
 
 ```{r, echo=FALSE, warning=FALSE}
 library(knitr)

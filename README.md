@@ -1,5 +1,8 @@
-# CV / Resume / Porfolio
+# CV and Resume
 
-- **CV:** This repo contains the pdf of my CV and the LaTex files used to buld it. 
-- **Resume:** I only copied the pdf of my resume. The LaTex files used to build it are here: https://www.overleaf.com/read/znbsqdvgcfps
-- **Portfolio:** I started making a slide show that contain some of the figures and illustrations I've made. Its a work in progress. 
+- **CV:** This repo contains the 
+	- [CV.pdf](./CV.pdf) a pdf of my CV and the LaTex files form Overleaf
+	- [CV.md](./CV.md)an plaintext version for easy viewing 
+- **Resume:** 
+	- [resume.pdf](./resume.pdf)
+	- Note: I only copied the pdf of my resume. The LaTex files used to build it are here: https://www.overleaf.com/read/znbsqdvgcfps

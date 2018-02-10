@@ -90,7 +90,7 @@ Invited and Contributed Talks
 
 - **UT Austin**. RNA/DNA Club. December 11, 2017
 
-- **UT Austin**. Thesis Defense. October 18, 2017 
+- **UT Austin**. Thesis Defense. October 18, 2017. [Sides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning) 
 
 - **Yale University**. James Noonan Lab. September 15, 2017
 
@@ -160,10 +160,11 @@ Scientific Posters
 Selected GitHub Repositories
 ================
 
--  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning\
+-  [Thesis](https://github.com/raynamharris/Thesis). The GitHub repository where I build a website for an easy-to-read-on-a-phone version of my thesis.\
 
-- [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular
-    dissocation on hippocampal gene expression in laboratory mice.\
+-  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning.\
+
+- [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular dissocation on hippocampal gene expression in laboratory mice.\
 
 Professional Activities
 =============

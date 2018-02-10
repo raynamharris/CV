@@ -35,11 +35,11 @@ Publications
 Pre-prints
 ==========
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioR$\chi$iv 153585.
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
 
-1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten Simple Rules for Collaborative Lesson Development. ar$\chi$iv:1707.02662.
+1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten Simple Rules for Collaborative Lesson Development. arXiv:1707.02662.
 
-1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioR$\chi$iv 107342.
+1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
 
 Peer Reviewed Publications
 ==========================
@@ -86,41 +86,43 @@ Open Access Educational Materials
 
 Invited and Contributed Talks
 ========================
-- The North Door. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
+- **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
 
-- RNA/DNA Club. December 11, 2017
+- **UT Austin**. RNA/DNA Club. December 11, 2017
 
-- Yale University. James Noonan Lab. September 15, 2017
+- **UT Austin**. Thesis Defense. October 18, 2017 
 
-- Yale University. Daniel Colón-Ramos Lab. September 14, 2017
+- **Yale University**. James Noonan Lab. September 15, 2017
 
-- Marine Biological Laboratories. Neural Systems & Behavior Course. July 24, 2017. [Slides](https://www.slideshare.net/raynamharris/hippocampal-transcriptomic-responses-to-technical-and-biological-perturbations?qid=2ca13006-cffb-4f2c-b792-110932f155b1&v=&b=&from_search=4)
+- **Yale University**. Daniel Colón-Ramos Lab. September 14, 2017
 
-- The University of Texas at Tyler Biology Department. November 9, 2016
+- **Marine Biological Laboratories**. Neural Systems & Behavior Course. July 24, 2017. [Slides](https://www.slideshare.net/raynamharris/hippocampal-transcriptomic-responses-to-technical-and-biological-perturbations?qid=2ca13006-cffb-4f2c-b792-110932f155b1&v=&b=&from_search=4)
 
-- UT Austin. Brain, Behavior, & Evolution Graduate Seminar. October 2016
+- **The University of Texas at Tyler**. Biology Department. November 9, 2016
 
-- UT Austin. Chips & Dips Graduate Seminar. April, 6, 2016
+- **UT Austin**. Brain, Behavior, & Evolution Graduate Seminar. October 2016
 
-- Michigan State University. Annual BEACON Congress. August 18, 2015
+- **UT Austin**. Chips & Dips Graduate Seminar. April, 6, 2016
 
-- UT Austin. Waggoner Center for Alcohol Addiction Seminar. May 20, 2015
+- **Michigan State University**. Annual BEACON Congress. August 18, 2015
 
-- UT Austin. Brain, Behavior, & Evolution Graduate Seminar. April 17, 2015
+- **UT Austin**. Waggoner Center for Alcohol Addiction Seminar. May 20, 2015
 
-- Gulbenkian Institute of Science. COPEWELL Workshop on Functional Neuroanatomy of Fish. April 11, 2015. [Slides](https://www.slideshare.net/raynamharris/toward-single-neuron-gene-expression-analysis-for-studying-behavior-and-othertechniques?qid=9af35d93-6659-4719-8a4d-13851f0c963a&v=&b=&from_search=3)
+- **UT Austin**. Brain, Behavior, & Evolution Graduate Seminar. April 17, 2015
 
-- UT Austin. 10th Annual Integrative Biology Graduate Student Symposium. April 5, 2014
+- **Gulbenkian Institute of Science**. COPEWELL Workshop on Functional Neuroanatomy of Fish. April 11, 2015. [Slides](https://www.slideshare.net/raynamharris/toward-single-neuron-gene-expression-analysis-for-studying-behavior-and-othertechniques?qid=9af35d93-6659-4719-8a4d-13851f0c963a&v=&b=&from_search=3)
 
-- St. Edwards University.  3rd Annual Texas Poeciliid Conference. December 14, 2013
+- **UT Austin**. 10th Annual Integrative Biology Graduate Student Symposium. April 5, 2014
 
-- UT Austin. 9th Annual Integrative Biology Graduate Student Symposium. April 20, 2013
+- **St. Edwards University**.  3rd Annual Texas Poeciliid Conference. December 14, 2013
 
-- UT Austin. Darwin Day. February 10, 2013.
+- **UT Austin**. 9th Annual Integrative Biology Graduate Student Symposium. April 20, 2013
 
-- University of Bergen. NORDFORSK Behavioural Fish Neuroscience Network Workshop. November 16, 2012. 
+- **UT Austin**. Darwin Day. February 10, 2013.
 
-- University of Bergen. Behavioural Fish Neuroscience Network Conference. November 12, 2012
+- **University of Bergen**. NORDFORSK Behavioural Fish Neuroscience Network Workshop. November 16, 2012. 
+
+- **University of Bergen**. Behavioural Fish Neuroscience Network Conference. November 12, 2012
 
 Scientific Posters
 ===========
@@ -139,7 +141,7 @@ Scientific Posters
 
 - 2015 National Science Foundation Data Science Workshop. Seattle, WA
 
-- 2014 Society for Neuroscience Annual Meeting. Washington DC
+- 2014 Society for Neuroscience Annual Meeting. Washington DC. [Poster](https://figshare.com/articles/Enhancing_graduate_and_post_doctoral_training_Insights_from_the_Neural_Systems_amp_Behavior_course_at_MBL_in_Woods_Hole/1248910)
 
 - 2014 Annual BEACON Congress. Lansing, MI
 
@@ -172,9 +174,7 @@ Professional Activities
 
 - **Member** Software Carpentry Steering Committee, 2016-2017
 
-- **Poster Judge**
-- College of Natural Science Undergraduate Research Forum, 2016, 17
-
+- **Poster Judge** College of Natural Science Undergraduate Research Forum, 2016, 17
 
 - **Coordinator** Annual Big Data in Biology Symposia, 2012 - 2017
 

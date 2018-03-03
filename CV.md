@@ -37,12 +37,11 @@ Pre-prints
 
 1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
 
-1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten Simple Rules for Collaborative Lesson Development. arXiv:1707.02662.
-
 1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
 
 Peer Reviewed Publications
 ==========================
+1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
 
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
 
@@ -86,6 +85,9 @@ Open Access Educational Materials
 
 Invited and Contributed Talks
 ========================
+
+-**IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
+
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
 
 - **UT Austin**. RNA/DNA Club. December 11, 2017
@@ -248,6 +250,6 @@ Teaching
 Social Media\ and Blogs
 =============
 
-**Twitter**: Personal [@raynamharris](http://twitter.com/raynamharris), Bioinformatics [@texas\_cbrs](http://twitter.com/texas_cbrs), and Neuroscience [@nsb\_mbl](http://twitter.com/nsb_mbl)
+**Twitter**: [@raynamharris](http://twitter.com/raynamharris)
 
-**Professional/personal blog**: <https://medium.com/@raynamharris/>.
+**Blog**: <https://medium.com/@raynamharris/>.

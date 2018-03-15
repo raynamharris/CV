@@ -20,17 +20,13 @@ Honors and Awards
 
 - Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
-- Honorable mention, National Science Foundation Graduate Research Fellowship (2013, 14)
-
 Publications
 ============
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 
-*Google Scholar:* <https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en>
-
-*Google Scholar statistics as of December 2017:* 
-434 citations; h-index of 8, i10-index of 7
+*Google Scholar statistics as of March 2018:* 
+482 citations; h-index of 8, i10-index of 7
 
 Pre-prints
 ==========
@@ -79,7 +75,11 @@ Invited Articles and Reviews
 Open Access Educational Materials
 =================================
 
-1. Ahmadia A, Allen J, Banaszkiewicz P, Becker E, Bekolay T, Blischak J, Boughton A, Bray E, Cabunoc Mayes A, Crouch S, Davis N, Davis M,Duckles J, Emonet, R; Fortin, FA, Gonzalez I, Hamm C, Hansen M, **Harris RM**, et al. (2016) Software Carpentry: Instructor Training. Zenodo. 10.5281/zenodo.57571
+1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. http://doi.org/10.5281/zenodo.1198732
+
+1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. http://doi.org/10.5281/zenodo.1197332
+
+1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229
 
 1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
 
@@ -198,6 +198,10 @@ Teaching
 ========
 
 **Lesson Development**
+
+-	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons
+
+- 	Contributor to the Spanish Translations of UNIX, GIT and R, Software Carpentry
 
 -   Instructor Training, Software Carpentry and Data Carpentry
 

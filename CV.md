@@ -6,6 +6,8 @@ Education
 
 **The University of Texas at Austin**, Austin, Texas\
     Cell and Molecular Biology; PhD., Dec 2017
+    
+**The University of California, Davis**, Davis, California    
 
 Honors and Awards
 ===========
@@ -201,7 +203,7 @@ Teaching
 
 -	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons
 
-- 	Contributor to the Spanish Translations of UNIX, GIT and R, Software Carpentry
+- 	Contributor to the Spanish Translations of UNIX, GIT and R
 
 -   Instructor Training, Software Carpentry and Data Carpentry
 

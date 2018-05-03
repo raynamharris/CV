@@ -27,8 +27,8 @@ Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 
-*Google Scholar statistics as of March 2018:* 
-482 citations; h-index of 8, i10-index of 7
+*Google Scholar statistics as of May 2018:* 
+508 citations; h-index of 8, i10-index of 7
 
 Pre-prints
 ==========

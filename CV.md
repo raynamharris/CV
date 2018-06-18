@@ -27,15 +27,13 @@ Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 
-*Google Scholar statistics as of May 2018:* 
-508 citations; h-index of 8, i10-index of 7
+*Google Scholar statistics as of June 2018:* 
+521 citations; h-index of 8, i10-index of 7
 
 Pre-prints
 ==========
 
 1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
-
-1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
 
 Peer Reviewed Publications
 ==========================
@@ -87,6 +85,8 @@ Open Access Educational Materials
 
 Invited and Contributed Talks
 ========================
+
+-**Harvard School of Public Heath** Data Commons Pilot Phase Consortium (DCPPC) workshop. May 31, 2018. [Video](https://archive.org/details/commonspilot-may2018workshop-day02/00-CommonsPilot-may2018-welcome-team_copper-rayna_harris.mp4)
 
 -**IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
 

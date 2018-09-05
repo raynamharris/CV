@@ -86,9 +86,11 @@ Open Access Educational Materials
 Invited and Contributed Talks
 ========================
 
--**Harvard School of Public Heath** Data Commons Pilot Phase Consortium (DCPPC) workshop. May 31, 2018. [Video](https://archive.org/details/commonspilot-may2018workshop-day02/00-CommonsPilot-may2018-welcome-team_copper-rayna_harris.mp4)
+- **Universidad de Palermo** LatinR 2018. September 4, 2018. [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 
--**IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
+- **Harvard School of Public Heath** Data Commons Pilot Phase Consortium (DCPPC) workshop. May 31, 2018. [Video](https://archive.org/details/commonspilot-may2018workshop-day02/00-CommonsPilot-may2018-welcome-team_copper-rayna_harris.mp4)
+
+- **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018. [Slides](https://speakerdeck.com/raynamharris/usando-y-ensenando-r-para-investigacion-reproducible?slide=21)
 
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
 

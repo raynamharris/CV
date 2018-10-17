@@ -5,12 +5,14 @@ Education
     Biochemistry; B.S., 2006
 
 **The University of Texas at Austin**, Austin, Texas\
-    Cell and Molecular Biology; PhD., Dec 2017
+    Cell and Molecular Biology; PhD., 2017
     
 **The University of California, Davis**, Davis, California    
 
 Honors and Awards
 ===========
+
+- rstudio::conf 2019 Diversity Scholarship (2019)
 
 - Elected to the Software Carpentry Steering Committee (2016 - 17)
 

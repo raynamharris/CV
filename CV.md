@@ -1,45 +1,43 @@
-Education
-=========
+# CV
 
-**The University of Texas at Austin**, Austin, Texas\
+## Education
+
+**The University of Texas at Austin**, Austin, Texas
     Biochemistry; B.S., 2006
 
-**The University of Texas at Austin**, Austin, Texas\
-    Cell and Molecular Biology; PhD., 2017
+**The University of Texas at Austin**, Austin, Texas
+    Cell and Molecular Biology; PhD., Dec 2017. Supervised by Hans A. Hofmann
     
-**The University of California, Davis**, Davis, California    
+**The University of California**, Davis, California
+    Post-doctoral Fellow, Current.  Supervised by C. Titus Brown
 
-Honors and Awards
-===========
+## Honors and Awards
 
+- AAAS Community Engagement Fellowship (2019)
 - rstudio::conf 2019 Diversity Scholarship (2019)
-
-- Elected to the Software Carpentry Steering Committee (2016 - 17)
-
 - University Graduate Continuing Fellowship, UT Austin (2016 - 17)
-
 - William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)
-
 - Grant in Aid of Research, Society for Integrative and Comparative Biology (2016)
-
 - Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
-Publications
-============
+## Publications
 
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>
 
-*Google Scholar statistics as of June 2018:* 
-521 citations; h-index of 8, i10-index of 7
+*Google Scholar:* <https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en>
 
-Pre-prints
-==========
+*Google Scholar statistics as of December 2018:* 
+622 citations; h-index of 9, i10-index of 9
+
+### Pre-prints
 
 1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
 
-Peer Reviewed Publications
-==========================
-1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
+1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
+
+### Peer Reviewed Publications
+
+1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten Simple Rules for Collaborative Lesson Development. PLoS Comput Biol 14(3):  e1005963.
 
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
 
@@ -63,8 +61,7 @@ Peer Reviewed Publications
 
 1. Oldfield RG, **Harris RM**, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. Horm. Behav. 64:44-52.
 
-Invited Articles and Reviews
-============================
+### Invited Articles and Reviews
 
 1. **Harris RM**, O13Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
 
@@ -74,192 +71,115 @@ Invited Articles and Reviews
 
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.
 
-Open Access Educational Materials
-=================================
+### Open Access Educational Materials
 
-1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. http://doi.org/10.5281/zenodo.1198732
-
-1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. http://doi.org/10.5281/zenodo.1197332
-
-1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. http://doi.org/10.5281/zenodo.278229
+1. Ahmadia A, Allen J, Banaszkiewicz P, Becker E, Bekolay T, Blischak J, Boughton A, Bray E, Cabunoc Mayes A, Crouch S, Davis N, Davis M,Duckles J, Emonet, R; Fortin, FA, Gonzalez I, Hamm C, Hansen M, **Harris RM**, et al. (2016) Software Carpentry: Instructor Training. Zenodo. 10.5281/zenodo.57571
 
 1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. 10.5281/zenodo.60725
 
-Invited and Contributed Talks
-========================
+## Invited and Contributed Talks
 
-- **Universidad de Palermo** LatinR 2018. September 4, 2018. [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
-
-- **Harvard School of Public Heath** Data Commons Pilot Phase Consortium (DCPPC) workshop. May 31, 2018. [Video](https://archive.org/details/commonspilot-may2018workshop-day02/00-CommonsPilot-may2018-welcome-team_copper-rayna_harris.mp4)
-
-- **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018. [Slides](https://speakerdeck.com/raynamharris/usando-y-ensenando-r-para-investigacion-reproducible?slide=21)
-
+- **UC Davis**. Environmental Endocrinology Seminar. December 11, 2018 [Slides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning)
+- **Universidad de Palermo**. LatinR. September 4, 2018 [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
+- **IBM Buenos Aires**. R Ladies Buenos Aires Meetup. March 27, 2018. [Slides](https://speakerdeck.com/raynamharris/usando-y-ensenando-r-para-investigacion-reproducible) [Video](https://t.co/ZQQEw0ujdA)
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
-
 - **UT Austin**. RNA/DNA Club. December 11, 2017
-
 - **UT Austin**. Thesis Defense. October 18, 2017. [Sides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning) 
-
 - **Yale University**. James Noonan Lab. September 15, 2017
-
 - **Yale University**. Daniel Colón-Ramos Lab. September 14, 2017
-
 - **Marine Biological Laboratories**. Neural Systems & Behavior Course. July 24, 2017. [Slides](https://www.slideshare.net/raynamharris/hippocampal-transcriptomic-responses-to-technical-and-biological-perturbations?qid=2ca13006-cffb-4f2c-b792-110932f155b1&v=&b=&from_search=4)
-
 - **The University of Texas at Tyler**. Biology Department. November 9, 2016
-
 - **UT Austin**. Brain, Behavior, & Evolution Graduate Seminar. October 2016
-
 - **UT Austin**. Chips & Dips Graduate Seminar. April, 6, 2016
-
 - **Michigan State University**. Annual BEACON Congress. August 18, 2015
-
 - **UT Austin**. Waggoner Center for Alcohol Addiction Seminar. May 20, 2015
-
 - **UT Austin**. Brain, Behavior, & Evolution Graduate Seminar. April 17, 2015
-
 - **Gulbenkian Institute of Science**. COPEWELL Workshop on Functional Neuroanatomy of Fish. April 11, 2015. [Slides](https://www.slideshare.net/raynamharris/toward-single-neuron-gene-expression-analysis-for-studying-behavior-and-othertechniques?qid=9af35d93-6659-4719-8a4d-13851f0c963a&v=&b=&from_search=3)
-
 - **UT Austin**. 10th Annual Integrative Biology Graduate Student Symposium. April 5, 2014
-
 - **St. Edwards University**.  3rd Annual Texas Poeciliid Conference. December 14, 2013
-
 - **UT Austin**. 9th Annual Integrative Biology Graduate Student Symposium. April 20, 2013
-
 - **UT Austin**. Darwin Day. February 10, 2013.
-
 - **University of Bergen**. NORDFORSK Behavioural Fish Neuroscience Network Workshop. November 16, 2012. 
-
 - **University of Bergen**. Behavioural Fish Neuroscience Network Conference. November 12, 2012
 
-Scientific Posters
-===========
+## Scientific Posters
 
 - 2017 The Moore Foundation Early Career Researcher Symposium. Waikoloa Beach, HI
-
 - 2016 Society for Neuroscience Annual Meeting. San Diego, CA
-
 - 2016 International Congress of Neuroethology. Montevideo, Uruguay
-
 - 2016 Society for Integrative and Comparative Biology Meeting Portland, OR
-
 - 2015 Celebration of Discovery at the Marine Biological Laboratories. Woods Hole, MA
-
 - 2015 Annual Waggoner Center for Alcohol & Addiction Research Advance. Austin, TX
-
 - 2015 National Science Foundation Data Science Workshop. Seattle, WA
-
 - 2014 Society for Neuroscience Annual Meeting. Washington DC. [Poster](https://figshare.com/articles/Enhancing_graduate_and_post_doctoral_training_Insights_from_the_Neural_Systems_amp_Behavior_course_at_MBL_in_Woods_Hole/1248910)
-
 - 2014 Annual BEACON Congress. Lansing, MI
-
 - 2014 Animal Behavior Conference. Bloomington, IN
-
 - 2014 Brain Behavior & Evolution Symposium. Austin, TX
-
 - 2014 Society for Integrative and Comparative Biology Meeting. Austin, TX
-
 - 2013 Gordon Research Conference in Neuroethology. West Dover, VT
-
 - 2013 Society for Behavioral Neuroendocrinology Annual Meeting. Atlanta, GA
-
 - 2012 Gordon Research Conference in Genes and Behavior. Galveston, TX
 
-Selected GitHub Repositories
-================
+## Selected GitHub Repositories
 
--  [Thesis](https://github.com/raynamharris/Thesis). The GitHub repository where I build a website for an easy-to-read-on-a-phone version of my thesis.\
+- [Thesis](https://github.com/raynamharris/Thesis). The GitHub repository where I build a website for an easy-to-read-on-a-phone version of my thesis.
+-  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning.
+- [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular dissocation on hippocampal gene expression in laboratory mice.
 
--  [IntegrativeProjectWT2015](https://github.com/raynamharris/IntegrativeProjectWT2015). My bioinformatic workflow for studying transcriptional plasticity in the mouse hippocampus and its role in avoidance learning.\
-
-- [DissociationTest](https://github.com/raynamharris/DissociationTest). My bioinformatic workflow for testing the influence of cellular dissocation on hippocampal gene expression in laboratory mice.\
-
-Professional Activities
-=============
+## Professional Activities
 
 - **Peer-reviewer** Behavioral Ecology; Gene; Genes, Genomes & Genetics; Journal of Experimental Zoology Part A; Physiology & Behavior; PLOS ONE; Proceedings of the Royal Society B.
-
 - **Secretary** Software Carpentry Steering Committee, 2017-2018
-
 - **Member** Software Carpentry Steering Committee, 2016-2017
-
 - **Poster Judge** College of Natural Science Undergraduate Research Forum, 2016, 17
-
 - **Coordinator** Annual Big Data in Biology Symposia, 2012 - 2017
-
 - **Coordinator** Summer School for Big Data in Biology, 2014 - 2016
-
 - **Co-Chair** Complementary Session to Symposium - New Frontiers in the Integrative Study of Animal Behavior, Society for Integrative & Comparative Biology Annual Meeting, January 2016
-
 - **Blogger** PLOS Neuroscience Community, BEACON: An NSF Center for Evolution in Action, Data Carpentry, and Software Carpentry, Since 2014
-
 - **Graduate Representative** Cell and Molecular Biology Graduate Program External Review
     Committee, October 2014
-
 - **Coordinator** Transdisciplinary Graduate Student Luncheon, October 2014
-
 - **Spanish Translator** “Welcome to the World of Mushrooms”, INBio Park, Costa Rica, 2009
 
-Teaching
-========
+## Teaching
 
-**Lesson Development**
+### Lesson Development 
 
--	Maintainer of the Software Carpentry Git and Data Carpentry Genomics lessons
-
-- 	Contributor to the Spanish Translations of UNIX, GIT and R
-
--   Instructor Training, Software Carpentry and Data Carpentry
-
--   Reproducible Research with Jupyter Notebooks, Data Carpentry
-
--   Integrative Molecular Neuroethology, Neural Systems & Behavior
+- Instructor Training, Software Carpentry and Data Carpentry
+- Reproducible Research with Jupyter Notebooks, Data Carpentry
+- Integrative Molecular Neuroethology, Neural Systems & Behavior
     Course
 
-**Lead or Co-Lead Instructor**
+### Lead or Co-Lead Instructor 
 
--   Instructor Training, Software Carpentry and Data Carpentry (2016 –
+- Instructor Training, Software Carpentry and Data Carpentry (2016 –
     present)
-
--   Integrative Molecular Neuroethology, Neural Systems & Behavior
+- Integrative Molecular Neuroethology, Neural Systems & Behavior
     Course (2013 - present)
+- Introduction to Git for Bioinformatics, UT Austin (2017). [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
+- Introduction to Unix and R, for Bioinformatics, UT Austin (2016)
+- The UNIX Shell, Software Carpentry (2015)
+- Version Control with Git, Software Carpentry (2015)
+- Introduction to Spanish, Futura Language Professionals (2008 - 2009)
 
--   Introduction to Git for Bioinformatics, UT Austin (2017). [Slides](https://www.slideshare.net/raynamharris/version-control-with-github-for-bioinformatics?qid=34d1014b-2c8a-4fc7-a76c-74517375570c&v=&b=&from_search=1)
+### Teaching Assistant 
 
--   Introduction to Unix and R, for Bioinformatics, UT Austin (2016)
-
--   The UNIX Shell, Software Carpentry (2015)
-
--   Version Control with Git, Software Carpentry (2015)
-
--   Introduction to Spanish, Futura Language Professionals (2008 - 2009)
-
-**Teaching Assistant**
-
--   Biostatistics (SDS 328M), UT Austin (2017)
-
--   Introduction to Core Next-generation Sequencing Tools, UT Austin
+- Biostatistics (SDS 328M), UT Austin (2017)
+- Introduction to Core Next-generation Sequencing Tools, UT Austin
     (2015, 16, 17)
+- Problems in Modern Biology (BIO 301E), UT Austin (2013)
+- Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
+- Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
 
--   Problems in Modern Biology (BIO 301E), UT Austin (2013)
+### Guest Lecturer 
 
--   Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
-
--   Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
-
-**Guest Lecturer**
-
--   Comparative Animal Physiology (BIO 361T), UT Austin (2016)
-
--   Introduction to Biological Statistics, UT Austin (2014)
-
--   Neurobiology of Social Behavior, University of the Republic of
+- Comparative Animal Physiology (BIO 361T), UT Austin (2016)
+- Introduction to Biological Statistics, UT Austin (2014)
+- Neurobiology of Social Behavior, University of the Republic of
     Uruguay (2013). [Slides](https://www.slideshare.net/raynamharris/time-and-money-techniques-for-neural-gene-expression-profiling?qid=54595bce-1803-439f-befd-c864596ed79c&v=&b=&from_search=6)
 
+## Social Media and Blogs
 
-Social Media\ and Blogs
-=============
+**Twitter**: Personal [@raynamharris](http://twitter.com/raynamharris)
 
-**Twitter**: [@raynamharris](http://twitter.com/raynamharris)
-
-**Blog**: <https://medium.com/@raynamharris/>.
+**Professional/personal blog**: <https://medium.com/@raynamharris/>

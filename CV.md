@@ -27,11 +27,11 @@
 *Google Scholar:* <https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en>
 
 *Google Scholar statistics as of December 2018:* 
-622 citations; h-index of 9, i10-index of 9
+633 citations; h-index of 10, i10-index of 10
 
 ### Pre-prints
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2017) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. BioRXiv 153585.
 
 1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioRXiv 107342.
 

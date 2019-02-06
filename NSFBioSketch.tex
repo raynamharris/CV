@@ -1,0 +1,257 @@
+%
+% NSF Biographical Sketch: Dr Rayna M Harris
+%
+
+\documentclass[svgnames,11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\renewcommand\thesection{(\alph{section})}
+\renewcommand\thesubsection{(\alph{subsection})}
+
+\usepackage{calc}
+
+\usepackage{lastpage}
+%\newcommand{\pageoflastpage}{Page {\thepage} of \pageref*{LastPage}}
+%\newcommand{\pageoflastpage}{{\thepage} of \pageref*{LastPage}}
+\newcommand{\pageoflastpage}{}
+
+% Redefine the plain pagestyle for the title page
+\makeatletter
+\let\oldps@plain\ps@plain
+\renewcommand{\ps@plain}{\oldps@plain%
+\renewcommand{\@evenfoot}{\hfil\pageoflastpage\hfil}%
+\renewcommand{\@oddfoot}{\@evenfoot}}
+\makeatother
+
+% Use fancy for non-title pages
+\usepackage{fancyhdr}
+\fancyhead{}
+\fancyfoot{}
+\cfoot{\pageoflastpage}
+\pagestyle{fancy}
+
+\usepackage{xspace}
+
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx}
+\usepackage{varioref}
+\usepackage[%
+        colorlinks=true,urlcolor=,
+        pdfpagelabels=true,hypertexnames=true,
+        plainpages=false,naturalnames=true,
+        ]{hyperref}
+%
+\usepackage{url}
+\newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
+\newcommand\doi[1]{doi:\doilink{#1}}
+
+\makeatletter
+\newlength{\bibhang}
+\setlength{\bibhang}{1em}
+\newlength{\bibsep}
+ {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
+\newlist{bibsection}{itemize}{3}
+\setlist[bibsection]{label=,leftmargin={\bibhang+\widthof{[9]}},%
+        itemindent=-\bibhang,
+        itemsep=\bibsep,parsep=\z@,partopsep=0pt,
+        topsep=0pt}
+\newlist{bibenum}{enumerate}{3}
+\setlist[bibenum]{label=\textbf{\arabic*.},leftmargin={\bibhang+\widthof{[999]}},%
+        itemindent=-\bibhang,
+        itemsep=\bibsep,parsep=\z@,partopsep=0pt,
+        topsep=0pt}
+\let\oldendbibenum\endbibenum
+\def\endbibenum{\oldendbibenum\vspace{-.6\baselineskip}}
+\let\oldendbibsection\endbibsection
+\def\endbibsection{\oldendbibsection\vspace{-.6\baselineskip}}
+\makeatother
+
+
+% for text wrap within table
+% https://tex.stackexchange.com/questions/2441/how-to-add-a-forced-line-break-insihttps://tex.stackexchange.com/questions/5036/how-to-prevent-latex-from-hyphenating-the-entire-documentde-a-table-cell
+\usepackage[utf8]{inputenc}
+\usepackage{fourier} 
+\usepackage{array}
+\usepackage{makecell}
+
+% for hyphens
+% 
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\renewcommand\theadalign{bc}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[4pt]}
+\renewcommand\cellgape{\Gape[4pt]}
+
+\title{%
+        \vspace{-2\baselineskip}
+            \normalsize
+            Biographical Sketch\\
+            {\large\textbf{Dr. Rayna M. Harris}}\\
+            \vspace{0.5\baselineskip}
+            \hrule
+            \vspace{0.5\baselineskip}
+            %University of California Davis,
+            %e-mail: \href{mailto:rmharris@ucdavis.edu}{rmharris@ucdavis.edu}
+        \vspace{-1.5ex}
+        }
+\date{}
+\author{}
+
+\hypersetup{%
+        pdfsubject={NSF Biographical Sketch of Dr.Rayna M. Harris},
+        pdfauthor={Dr. Rayna M. Harris},
+        pdftitle={NSF Biographical Sketch of Dr.Rayna M. Harris},
+        pdfkeywords={}
+        }
+
+\newcommand{\ie}{i.e.\xspace}
+\newcommand{\eg}{e.g.\xspace}
+
+\begin{document}
+
+\maketitle
+\vspace{-4\baselineskip}
+
+\subsection{Professional Preparation}
+
+\begin{table}[h]
+\begin{tabular}{llccc}
+\hline
+\textbf{Institution} & \textbf{Location} & \textbf{Major or Dept.} & \textbf{Degree} & \textbf{Year} \\
+\hline
+The University of Texas at Austin & Austin, TX & Biochemistry & B.S. & 2006 \\
+The University of Texas at Austin & Austin, TX & Cell \& Molecular Biology & Ph.D. & 2017 \\
+University of California, Davis & Davis, CA & \makecell{Population Health \\ \& Reproduction} & \makecell{Postdoctoral \\ Scholar} & \makecell{2018 - \\ present} \\
+University of California, Davis & Davis, CA & \makecell{Neurobiology, Physiology \\ \& Behavior} & \makecell{Postdoctoral \\ Scholar} & \makecell{2019 - \\ present} \\ \hline
+\end{tabular}
+\end{table}      
+
+\subsection{Appointments}
+
+\begin{itemize}[label={\quad 9999--9999:},leftmargin=*,itemsep=0pt]
+
+    \item[2018--present:]
+        \textbf{Postdoctoral Scholar},
+        University of California, Davis,
+        Davis, CA
+
+\end{itemize}
+
+\subsection{Products}
+
+\begin{bibsection}
+\item \textbf{Most closely related products}
+\end{bibsection}
+\vspace{0.5 cm}
+
+\begin{bibenum}[itemsep=5pt]
+
+\item {\bf Harris RM}, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Hippocampal transcriptomic responses to cellular dissociation. BioR$\chi$iv 153585. 10.1101/153585. 
+
+\item Renn SPC, Machado H, Duftner N, {\bf Harris RM}, Sessa AK, Hofmann HA. Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
+
+\item Simoes JM, Barata EN, {\bf Harris RM}, O\textsc{\char13}Connell LA, Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish. BMC Genomics 16:114. 
+
+\item Stiver KA, {\bf Harris RM}, Townsend JP, Hofmann HA, Alonzo SH (2015) Behavioral and physiological examinations of cooperation in {\it Symphodus ocellatus}, a species with alternative male reproductive tactics. Ethol. 121:152-167.
+
+\item {\bf Harris RM}, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68. 
+
+\end{bibenum}
+
+\vspace{0.5 cm}
+\begin{bibsection}
+\item \textbf{Other significant products}
+\end{bibsection}
+\vspace{0.5 cm}
+
+\begin{bibenum}[itemsep=5pt]
+
+\item Devenyi GA, Emonet R, {\bf Harris RM}, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
+
+\item {\bf Harris RM}, O\textsc{\char13}Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley \& Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
+
+\item Oldfield RG, {\bf Harris RM}, Hofmann HA (2015) Integrating Resource Defence Theory with Nonapeptide Expression to Explain Variation in Mating Systems. Front. Zool. 12:S16. 
+
+\item Brawand et al. (2014) The genomic substrate for adaptive radiation: Genomes of five African cichlid fish. Nature 513: 375-381
+
+\item Oldfield RG, {\bf Harris RM}, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. Horm. Behav. 64:44-52. 
+
+
+\end{bibenum}
+
+
+
+\subsection{Synergistic Activities}
+
+\begin{bibenum}[itemsep=4pt]
+
+    \item \textbf{Community Engagement:}
+        (i) Fellow of the AAAS Community Engagement Program
+        (i) Coordinator of monthly workshops for the Data Commons Pilot Phase Consortium (2018) 
+        (ii) Manager of The Carpentries Latin American community
+        (iii) Coordinator of the Annual Big Data in Biology Symposium, an event that brought together faculty and students from 12 departments across science, engineering, and health at the University of Texas, 2012-2017
+        (iv) Organizer of the Annual Big Data in Biology Summer School, a week-long program providing hands-on bioinformatics training and networking opportunities to researchers at The University of Texas at Austin and beyond;
+        (v) Co-Chair of a session "New Frontiers in the Integrative Study of Animal Behavior", Society for Integrative \& Comparative Biology Annual Meeting, January 2016 
+
+    \item \textbf{Science Communication}
+        (i) Production manager for the "I Can Science" documentary series hosted by Dr Rebecca Calisi;
+        (ii) Content manager for numerous twitter accounts for educational programs and scientific communities;
+        (ii) Contributor to community blogs including PLOS Neurobiology, BEACON Center for Evolution in Action, and Software Carpentry.
+   
+     \item \textbf{Teaching:}
+        (i) I teach and maintain The Carpentries Instructor Training curriculum; 
+        (ii) I teach computational workshops using R, Git, Python, UNIX, and other bioinformatic tools;
+        (iii) I developed a molecular biology curriculum for the Neural Systems \& Behavior course at the Marine Biological Laboratories;
+        (iii) I was a teaching assistant for "Biostatistics (SDS 328M)" and "Problems in Modern Biology (BIO 301E)" at the University of Texas at Austin;
+        (iv) I was a teaching specialist for Organic Chemistry Laboratory courses (CH 210C and CH 118K/L) at the University of Texas at Austin.
+
+        
+    \item \textbf{Translating educational materials into Spanish}
+        (i) Coordinated the community-driven translation of the Data Carpentry lesson "Data Analysis and Visualization in Python for Ecologists";
+        (ii) Contributed to the translation of the book "R for Data Science;
+        (iii) Contributed to the community-driven translations of the Software Carpentry lessons "Version Control with Git" and "R for Reproducible Scientific Analysis";
+        (iv) Translated signs for a park exhibit called “Welcome to the World of Mushrooms” in Costa Rica.
+
+   \item \textbf{University service:} 
+        (i) Graduate Representative for the Cell and Molecular Biology Graduate Program External Review Committee at the University of Texas at Austin, 2014.
+        
+
+\end{bibenum}
+
+\subsection{Collaborators \& Other Affiliations}
+
+\begin{bibsection}
+
+    \item \textbf{Collaborators and Co-Editors:}
+        \emph{University of New Hampshire}:
+            Matthew MacManes,
+        \emph{New York University}:
+            Andr\`e Fenton,
+        \emph{The University of Texas}:
+            Michael Ryan,
+        \emph{Colorado State University}:
+            Kim Hoke,
+        \emph{Reed College}:
+            Suzy Renn,
+        \emph{Instituto Gulbenkian de Ciencia, Portugal}:
+            Rui Oliveira,
+        \emph{Case Western Reserve University}:
+            Ronald Oldfield,
+        \emph{University of California, Santa Cruz}:
+            Suzanne Alonzo
+
+    \item \textbf{Graduate Advisers and Postdoctoral Sponsors:}
+        \emph{The University of Texas at Austin}:
+            Hans A. Hofmann,
+        \emph{University of California}:
+            C. Titus Brown, 
+            Rebecca Calisi
+
+\end{bibsection}
+
+\end{document}

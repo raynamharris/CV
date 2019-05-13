@@ -1,6 +1,6 @@
 # Curriculum Vitae 
 
-_Notes: A [pdf version of my CV ]((https://github.com/raynamharris/CV/blob/master/CV.pdf). This file was last updated on February 24, 2019._
+_Notes: A [pdf version of my CV ](https://github.com/raynamharris/CV/blob/master/CV.pdf). This file was last updated on February 24, 2019._
 
 ## Education
 

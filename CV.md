@@ -33,7 +33,7 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 ### Peer Reviewed Publications
 
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [Hippocampus 10.1002/hipo.23095](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095)
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Hippocampal transcriptomic responses to enzyme‐mediated cellular dissociation. [Hippocampus 10.1002/hipo.23095](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095)
 1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. [PLoS Comput Biol 14(3): e1005963.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA (2017). Gene Expression Signatures of Mating System Evolution. [Genome. DOI: 10.1139/gen-2017-0075.](http://www.nrcresearchpress.com/doi/full/10.1139/gen-2017-0075#.XHMI2ZNKgn0)
 1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. [Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2838?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&)
@@ -54,14 +54,15 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 1. **Harris RM**, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253.
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.
 
-### Open Access Educational Materials
-
+### Education-related
 
 1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. <http://doi.org/10.5281/zenodo.2536379>
 1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. <http://doi.org/10.5281/zenodo.1198732>
 1. **Harris RM** (ed), 49 authors including **Harris RM** (2018) Software Carpentry Git Novice in Spanish, Version v2018.04.3. <http://doi.org/10.5281/zenodo.1197332>
 1. Wilson G, Becker E, SilvaR, Koch C, *Harris RM*, et al. (2017). Software Carpentry: Instructor Training. Zenodo. <http://doi.org/10.5281/zenodo.278229>
 1. **Harris RM**, Hofmann HA (2014). Laboratory Experiments for the 2014 Integrative Molecular Neuroscience Module. Zenodo. <http://doi.org/10.5281/zenodo.60725>
+1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. [BioRXiv 107342.](https://www.biorxiv.org/content/10.1101/107342v1)
+
 
 ## Invited and Contributed Talks
 

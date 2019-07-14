@@ -23,14 +23,17 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 *ORCiD publication list:* <http://orcid.org/0000-0002-7943-5650>  
 *[Google Scholar](https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en) statistics as of Feb 2019:* 634 citations; h-index of 10, i10-index of 10
 
-### Pre-prints
+### In review
 
+1. Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, Harris RM, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ (2019) Molecular Profiling to Infer Neuronal Cell Identity: Lessons from small ganglia of the Crab Cancer borealis. [BioRXiv 10.1101/690388](https://www.biorxiv.org/content/10.1101/690388v1)
+1. Clarke DJB et. al. (2019) FAIRshake: toolkit to evaluate the findability, accessibility, interoperability, and reusability of research digital resources. [BioRXiv 10.1101/657676](https://www.biorxiv.org/content/10.1101/657676v1)
+1. Ernst D, Harris RM, Chintamen S, Dickens M, Calisi RM (2019) Differential influence of captive housing environments on zebra finch behavior, stress, and reproductive physiology. Horm. Behav.
 
-1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [BioRXiv 153585.](https://www.biorxiv.org/content/10.1101/153585v1)
-1. **Harris RM**, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. [BioRXiv 107342.](https://www.biorxiv.org/content/10.1101/107342v1)
 
 ### Peer Reviewed Publications
 
+
+1. **Harris RM**, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Analysis of hippocampal transcriptomic responses to technical and biological perturbations. [Hippocampus 10.1002/hipo.23095](https://onlinelibrary.wiley.com/doi/10.1002/hipo.23095)
 1. Devenyi GA, Emonet R, **Harris RM**, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. [PLoS Comput Biol 14(3): e1005963.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963)
 1. Renn SPC, Machado H, Duftner N, **Harris RM**, Sessa AK, Hofmann HA (2017). Gene Expression Signatures of Mating System Evolution. [Genome. DOI: 10.1139/gen-2017-0075.](http://www.nrcresearchpress.com/doi/full/10.1139/gen-2017-0075#.XHMI2ZNKgn0)
 1. Dijkstra PD, Maguire SM **Harris RM**, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. [Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2838?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&)
@@ -46,13 +49,13 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ### Invited Articles and Reviews
 
-
 1. **Harris RM**, O13Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley & Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
 1. Oldfield RG, **Harris RM**, Hofmann HA (2015) Integrating Resource Defence Theory with Nonapeptide Expression to Explain Variation in Territory-based Mating Systems. Front. Zool. 12:S16.
 1. **Harris RM**, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253.
 1. **Harris RM**, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68.
 
 ### Open Access Educational Materials
+
 
 1. Martinez P.A, Saldago H, **Harris RM** (eds), 29 authors including **Harris RM** (2019). datacarpentry/python-ecology-lesson-es: Data Carpentry: Lección de Data Carpentry - Python usando datos de ecología - Enero 2019 (Version v2019.01.0). Zenodo. <http://doi.org/10.5281/zenodo.2536379>
 1. Saldago H (ed), 49 authors including **Harris RM**. (2018) Software Carpentry Shell Novice in Spanish, Version v2018.04.1. <http://doi.org/10.5281/zenodo.1198732>
@@ -62,6 +65,10 @@ Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
 
 ## Invited and Contributed Talks
 
+- **UC Davis** Next-Gen Sequence Analysis Workshop. Jul 5, 2019 [Slides](https://speakerdeck.com/raynamharris/rnaseq-a-five-course-meal). [Video](https://youtu.be/vAPSd2qPdRI).
+- **rOpenSci** Community call: Multilingual communities. Jun, 28 2019
+- **UC Davis** Environmental Endocrinology Seminar. December 11, 2018 [Slides](https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning)
+- **Universidad de Palermo** LatinR. September 4, 2018 [Slides](https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining)
 - **IBM Buenos Aires** R Ladies Buenos Aires Meetup. March 27, 2018.
 - **The North Door**. Nerd Nite Austin Texas. January 10, 2018. [Slides](https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control)
 - **UT Austin**. RNA/DNA Club. December 11, 2017

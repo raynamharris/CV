@@ -1,0 +1,448 @@
+% update chapters
+% update NSF grant
+%________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Rayna M Harris
+% @author   Rayna Harris
+% @date     March 2019
+% @info     Based on Latex Resume Template by Chris Paciorek with modifications by C. Titus Brown
+%           http://www.biostat.harvard.edu/~paciorek/
+%________________________________________________________________________________________
+\documentclass[margin,line]{CV}
+
+\usepackage{color}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\usepackage{enumitem}
+\setlist{nolistsep,leftmargin=*}
+\setlength{\parindent}{0pt}
+
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\usepackage[spanish]{babel} % for accented letters
+
+\usepackage{amssymb} % for greek letters
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for reverse numbering with set starting number
+% from http://tex.stackexchange.com/questions/110236/is-there-a-way-to-get-reverse-numbering-on-the-enumerate-environment
+
+\newenvironment{benumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\name{\Large Curriculum Vitae - Rayna M. Harris}
+\pagenumbering{arabic}
+\pagestyle{plain}
+
+\begin{resume}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Contact
+%\section{\mysidestyle Contact \\Information}
+
+%\begin{description}[leftmargin=0pt]  
+%\setlength{\itemsep}{2pt} 
+%\item[] Rayna M. Harris
+%\item[] Phone: 512-657-2964 \hspace{40mm} Website: \url{raynamharris@gmail.com}
+%\item[] Email: \url{raynamharris@utexas.edu}       \hspace{18mm} GitHub: \url{www.github.com/raynamharris}
+%\end{description}
+
+
+ %%%%%%%%%%%%%%%%%%%%%
+ % Education
+ 
+\section{\mysidestyle Education}
+
+\begin{description}[leftmargin=0pt] 
+\setlength{\itemsep}{4pt}
+\item[] {\bf The University of Texas at Austin}, Austin, Texas \\Biochemistry; B.S., 2006
+\item[] {\bf The University of Texas at Austin}, Austin, Texas \\Cell and Molecular Biology; Ph.D., 2017. 
+\item[] {\bf The University of California}, Davis, California \\ Population Health and Reproduction, Postdoctoral Scholar, 2018
+\item[] {\bf The University of California}, Davis, California \\ Neurobiology, Physiology and Behavior,  Postdoctoral Scholar, current
+\end{description}
+    
+%%%%%%%%%%%%%%%%%%%%%  
+% Honors and Awards
+
+ \section{\mysidestyle Honors and \\ Awards} 
+
+\begin{description}[leftmargin=0pt]  
+\setlength{\itemsep}{1pt} 
+\item[] AAAS Community Engagement Fellowship (2019)
+\item[] rstudio::conf 2019 Diversity Scholarship (2019)
+%\item[] Berkeley Institute for Data Science Fellowship, Berkeley (2017 - 2019).
+\item[] Elected to the Software Carpentry Steering Committee (2016 - 17)
+\item[] University Graduate Continuing Fellowship, UT Austin (2016 - 17)
+\item[] William Livingston Outstanding Graduate Student Academic Employee Award, UT Austin (2017)
+\item[] Grant in Aid of Research,  Society for Integrative and Comparative Biology (2016)
+\item[] Academic Enrichment Fund Award, UT Austin (2014, 15, 16)
+\item[] Honorable mention, National Science Foundation Graduate Research Fellowship (2013, 14)
+\end{description}
+
+%\section{\mysidestyle Grants}
+%\raggedright
+%Society for Integrative and Comparative Biology, \$1,000, 
+%``Integrated molecular and synaptic mechanisms of hippocampal learning and memory.''
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% Publications
+
+\section{\mysidestyle Publications}
+    
+\begin{description}[leftmargin=0pt]  
+\setlength{\itemsep}{2pt} 
+\item[] {\em ORCiD publication list:} \url{http://orcid.org/0000-0002-7943-5650}
+%\item[] {\em Google Scholar:} \url{https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en}
+\item[] {\em Google Scholar statistics as of April 2020:} 902 citations; h-index of 11, i10-index of 12
+\end{description}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% pre-prints
+\section{\mysidestyle Submitted}
+
+\begin{benumerate}{22}
+
+\setlength{\itemsep}{2pt}
+
+\item Nederbragt L, {\bf Harris RM}, Hill AP, Wilson GV (2020) Ten Quick Tips For Teaching With Participatory Live Coding. PLOS Comp. Biol.
+
+\item {\bf Harris RM}, Kao H-Y, Alarcon JM, Fenton AA Hofmann HA (2020) Transcriptome analysis of hippocampal subfields identifies gene expression profiles associated with long-term active place avoidance memory. bioR$\chi$iv 10.1101/2020.02.05.935759
+
+% \item Ernst D, {\bf Harris RM}, Chintamen S, Dickens M, Calisi RM. Differential influence of captive housing environments on zebra finch behavior, stress, and reproductive physiology. 
+
+%\item {\bf Harris RM}, Otopalik AG, Smith C, Bucher D, Golowasch J, Hofmann HA (2017) Single-Neuron Gene Expression Analysis Using the Maxwell 16 LEV System. BioR$\chi$iv 107342.
+
+\end{benumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% reviews
+\section{\mysidestyle Invited Articles and Reviews}
+
+\begin{benumerate}{20}
+\setlength{\itemsep}{1pt}
+\item {\bf Harris RM}, O\textsc{\char13}Connell LA, Hofmann HA (2016) Brain Evolution, Development, and Plasticity, in The Wiley Handbook of Evolutionary Neuroscience (ed S. V. Shepherd), John Wiley \& Sons, Ltd, Chichester, UK. doi: 10.1002/9781118316757.ch15
+
+\item Oldfield RG, {\bf Harris RM}, Hofmann HA (2015) Integrating Resource Defence Theory with Nonapeptide Expression to Explain Variation in Mating Systems. Front. Zool. 12:S16. 
+
+\item {\bf Harris RM}, Hofmann HA (2015) Seeing is believing: Dynamic evolution of opsin genes. Proc. Natl. Acad. Sci. U.S.A. 112:1252-1253. 
+
+\item {\bf Harris RM}, Hofmann HA (2014) Neurogenomics of Behavioral Plasticity. Adv. Exp. Med. Biol. 781:149-68. 
+
+\end{benumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% peer Reviewed Publications
+\section{\mysidestyle Peer Reviewed Publications}
+    
+\begin{benumerate}{17}
+\setlength{\itemsep}{1pt}
+
+\item Lang AL, Austin SH, {\bf Harris RM}, Calisi RM, MacManes MD  (2020)  Stress-mediated convergence of splicing landscapes in male and female Rock Doves. BMC Genomics 21, 251.
+
+\item Northcutt AJ, Kick DR, Otopalik AG, Goetz BM, {\bf Harris RM}, Santin JM, Fenton AA, Hofmann HA, Marder E, Schulz DJ. Molecular profiling of single neurons of known identity in two ganglia from the crab {\it Cancer borealis}. Proc. Natl. Acad. Sci. U.S.A. 10.1073/pnas.1911413116
+
+\item Clarke DJB {\it et. al.}. FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources. Cell Systems 10.1016/j.cels.2019.09.011
+
+\item {\bf Harris RM}, Kao H-Y, Alarcon JM, Hofmann HA, Fenton AA (2019) Hippocampal transcriptomic responses to enzyme-mediated cellular dissociation. Hippocampus DOI: 10.1002/HIPO.23095. 
+
+\item Renn SPC, Machado H, Duftner N, {\bf Harris RM}, Sessa AK, Hofmann HA (2018). Gene Expression Signatures of Mating System Evolution. Genome. DOI: 10.1139/gen-2017-0075.
+
+\item Devenyi GA, Emonet R, {\bf Harris RM}, Hertweck KL, Irving D, Milligan I, Wilson G (2017) Ten simple rules for collaborative lesson development. PLoS Comput Biol 14(3): e1005963.
+
+\end{benumerate}
+
+
+
+
+%%%%%%%%%%%%%%
+\vspace{0.5 cm}
+{\centerline {Rayna M. Harris - Page 1 of 4}}
+\newpage
+%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% peer Reviewed Publications
+\section{\mysidestyle Peer Reviewed Publications\\ (continued)}
+    
+\begin{benumerate}{10}
+\setlength{\itemsep}{1pt}
+
+\item Dijkstra PD, Maguire SM {\bf Harris RM}, Rodriguez AA, DeAngelis RS Flores SA, Hofmann HA (2017) The melanocortin system regulates body pigmentation and social behaviour in a colour polymorphic cichlid fish. Proc. R. Soc. B. DOI: 10.1098/rspb.2016.2838.
+
+
+\item Goppert C, {\bf Harris RM}, Theis A, Boila A, Hohl S, Ruegg A, Hofmann HA, Salzburger WE, Boehne A (2016) Inhibition of aromatase induces partial sex change in a cichlid fish: Distinct functions for sex steroids in brains and gonads. Sex. Dev. 10:97-110.
+
+\item Simoes JM, Barata EN, {\bf Harris RM}, O\textsc{\char13}Connell LA, Hofmann HA, Oliveira RF (2015) Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish. BMC Genomics 16:114. 
+
+\item Stiver KA, {\bf Harris RM}, Townsend JP, Hofmann HA, Alonzo SH (2015) Gene Expression Profiles and Androgen Levels Underlie Alternative Reproductive Tactics in the Ocellated Wrasse, {\it Symphodus ocellatus}. Ethol. 121:152-167.
+
+\item Smith CC, {\bf Harris RM}, Lampert KP, Schartl M, Hofmann HA, Ryan MJ (2015) Copy number variation in the melanocortin 4 receptor gene and alternative reproductive tactics in swordtail Xiphophorus multilineatus. Environ. Biol. Fishes 98:23-33.
+
+\item Brawand et al. (2014) The genomic substrate for adaptive radiation: Genomes of five African cichlid fish. Nature 513: 375-381
+
+\item Fischer EK, {\bf Harris RM}, Hofmann HA, Hoke KL (2014) Predator exposure alters stress physiology in guppies across timescales. Horm. Behav. 65: 165–172. 
+
+\item {\bf Harris RM}, Dijkstra PD, Hofmann HA (2014) Complex Structural and Regulatory Evolution of the Pro-opiomelanocortin Gene Family. Gen. Compar. Endocrinol. 195: 107-115. 
+
+\item Sessa AK, {\bf Harris RM}, Hofmann HA (2013) Sex Steroid Hormones Modulate Responses to Social Challenge \& Opportunity in Males of the Monogamous Convict Cichlid, Amatitliana nigrofasciata. Gen. Compar. Endocrinol. 189: 59–65. 
+
+\item Oldfield RG, {\bf Harris RM}, Hendrickson DA, Hofmann HA (2013) Arginine Vasotocin and Prolactin Pathways are Associated with Mating System Variation in North American Cichlid Fishes. Horm. Behav. 64:44-52. 
+\end{benumerate}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% talks
+
+\section{\mysidestyle Invited and Contributed \\ Talks}
+
+\begin{description}
+\setlength{\itemsep}{1pt}
+\item[CSCCE] Community Call: Exploring Diversity, Equity and Inclusion. Apr 22, 2020.
+\item[SICB 2020] Society for Integrative and Comparative Biology Meeting. Jan 6, 2020
+\item[UCLA] FORCE11 Scholarly Communication Institute. Aug 5, 2019 \href{https://speakerdeck.com/raynamharris/community-driven-efforts-to-translate-educational-materials-into-many-languages}{\textbf{Slides.}}
+\item[UC Davis] Next-Gen Sequence Analysis Workshop. Jul 5, 2019 \href{https://speakerdeck.com/raynamharris/rnaseq-a-five-course-meal}{\textbf{Slides.}} \href{https://youtu.be/vAPSd2qPdRI}{\textbf{Video.}}
+\item[rOpenSci] Community Call: Multilingual Communities. Jun, 28 2019 \href{https://speakerdeck.com/raynamharris/ropensci-community-call-managing-multilingual-communities}{\textbf{Slides.}} \href{https://ropensci.org/commcalls/2019-06-28/}{\textbf{Video.}}
+\item[UC Davis] Environmental Endocrinology Seminar. December 11, 2018 \href{https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning}{\textbf{Slides}} 
+\item[Universidad de Palermo] LatinR. September 4, 2018 \href{https://speakerdeck.com/raynamharris/latinr-thecarpentriesinstructortraining}{\textbf{Slides}}
+%\item[Harvard School of Public Health] Data Commons Pilot Phase Consortium (DCPPC) Workshop. May 31, 2018. \href{https://archive.org/details/commonspilot-may2018workshop-day02/00-CommonsPilot-may2018-welcome-team_copper-rayna_harris.mp4}{\textbf{Video}}
+\item[IBM Buenos Aires] R Ladies Buenos Aires Meetup. March 27, 2018. \href{https://speakerdeck.com/raynamharris/usando-y-ensenando-r-para-investigacion-reproducible}{\textbf{Slides.}} \href{https://t.co/ZQQEw0ujdA}{\textbf{Video.}}
+\item[The North Door] Nerd Nite Austin Texas. January 10, 2018. \href{https://speakerdeck.com/raynamharris/zombie-brains-microbial-mind-control}{\textbf{Slides.}} \href{https://vimeo.com/260702233}{\textbf{Video}}
+\item[UT Austin] RNA/DNA Club. December 11, 2017
+\item[UT Austin] Ph.D. Thesis Defense. October 18, 2017. \href{https://speakerdeck.com/raynamharris/transcriptional-plasticity-in-the-hippocampus-and-its-role-in-avoidance-learning}{\textbf{Slides}}
+\item[Yale University] James Noonan Lab. September 15, 2017
+\item[Yale University] Daniel Col\'on-Ramos Lab. September 14, 2017
+\item[UC Berkeley] Michael Eisen Lab. January 13, 2017
+\item[UT Tyler] Biology Department. November 9, 2016
+\item[UT Austin] Brain, Behavior, \& Evolution Graduate Seminar. October 2016
+\item[UT Austin] Chips \& Dips Graduate Seminar. April 6, 2016
+\item[Michigan State University] Annual BEACON Congress. August 18, 2015 
+\item[UT Austin] Waggoner Center for Alcohol Addiction Seminar. May 20, 2015
+\item[UT Austin] Brain, Behavior, \& Evolution Graduate Seminar. April 17, 2015
+\item[Gulbenkian Institute of Science] COPEWELL Workshop. April 11, 2015
+\item[UT Austin] 10th Annual Integrative Biology Graduate Student Symposium. April 5, 2014
+\item[St. Edwards University] 3rd Annual Texas Poeciliid Conference. December 14, 2013 
+\item[UT Austin] 9th Annual Integrative Biology Graduate Student Symposium. April 20, 2013
+\item[UT Austin] Darwin Day. February 10, 2013.
+%\item[University of Bergen] NORDFORSK workshop. November 16, 2012
+\item[University of Bergen] Behavioural Fish Neuroscience Network Conference. November 12, 2012
+
+\end{description}
+
+
+
+
+%%%%%%%%%%%%%%
+\vspace{0.5 cm}
+{\centerline {Rayna M. Harris - Page 2 of 4}}
+\newpage
+%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    % posters
+
+\section{\mysidestyle Scientific\\Posters}
+
+\begin{list1}
+\item[]2019	Society for Behavioral Neuroendocrinology (SBN) Annual Meeting. Bloomington, IN 
+\href{https://www.overleaf.com/read/fwpgzsxhmkxw
+}{\textbf{Poster}}
+\item[]2019 Scientific Computing with Python (SciPy). Austin, TX \href{https://www.overleaf.com/project/5cc20fbf61491f0afa725048s}{\textbf{Poster}}
+\item[]2017 The Moore Foundation Early Career Researcher Symposium. Waikoloa Beach, HI
+\item[]2016	Society for Neuroscience (SfN) Annual Meeting. San Diego, CA
+\item[]2016	International Congress of Neuroethology. Montevideo, Uruguay
+\item[]2016 Society for Integrative and Comparative Biology (SICB) Meeting Portland, OR
+\item[]2015	Celebration of Discovery at the Marine Biological Laboratories. Woods Hole, MA
+\item[]2015	Annual Waggoner Center for Alcohol \& Addiction Research Advance. Austin, TX
+\item[]2015	National Science Foundation Data Science Workshop. Seattle, WA
+\item[]2014	Society for Neuroscience (SfN) Annual Meeting. Washington DC
+\item[]2014	Annual BEACON Congress. Lansing, MI
+\item[]2014	Animal Behavior Conference. Bloomington, IN
+\item[]2014	Brain Behavior \& Evolution Symposium. Austin, TX
+\item[]2014	Society for Integrative and Comparative Biology Meeting (SICB). Austin, TX
+\item[]2013	Gordon Research Conference on Neuroethology. West Dover, VT
+\item[]2013	Society for Behavioral Neuroendocrinology (SBN) Annual Meeting. Atlanta, GA
+\item[]2012	Gordon Research Conference in Genes and Behavior. Galveston, TX
+\end{list1}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+% professional
+    
+\section{\mysidestyle Professional\\Activities}
+
+\begin{description}
+\item[Peer-reviewer] AAS Open Research; Behavioral Ecology; Gene; Genes, Brain \& Behavior; Genes, Genomes \& Genetics; Journal of Experimental Zoology Part A; Nature; Physiology \& Behavior; PLOS ONE; Proceedings of the Royal Society B; rOpenSci. 
+\item[Chair] Parental Care and Reproduction Symposium, Society for Integrative \& Comparative Biology Annual Meeting, January 2020
+\item[Member] Carpentries Instructor Trainer, 2016-2019
+\item[Production Manager] \textit{I Can Science} Documentary Series, 2019 
+%\item[Coordinator] Carpentry Maintainer On-boarding for Spanish speaking maintainers, 2018
+\item[Member] Open Access Week Advisory Committee, 2018
+\item[Secretary] Software Carpentry Steering Committee, 2017-2018
+\item[Member] Software Carpentry Steering Committee, 2016-2017
+\item[Poster Judge] College of Natural Science Undergraduate Research Forum, 2016, 17
+\item[Coordinator] Annual Big Data in Biology Symposia, 2012 - 2017 
+\item[Coordinator] Summer School for Big Data in Biology, 2014 - 2017
+\item[Co-Chair] New Frontiers in the Integrative Study of Animal Behavior Session, Society for Integrative \& Comparative Biology Annual Meeting, January 2016
+\item[Member] Software Carpentry Mentoring Committee, 2015 - 2017
+\item[Blogger] PLOS Neuroscience Community, BEACON: An NSF Center for Evolution in Action, Data Carpentry, and Software Carpentry, Since 2014
+\item[Graduate Representative] Cell and Molecular Biology Graduate Program External Review Committee, October 2014 
+\item[Coordinator] Transdisciplinary Graduate Student Luncheon, October 2014
+\item[Coordinator] Crockett High School – UT Austin Internship Program, 2012-2014
+\item[Coordinator] Annual Brain, Behavior, and Evolution Symposia, 2011-2013
+%\item[Volunteer] Barrington Elementary Science Career Day, November 2010
+\item[Spanish Translator] “Welcome to the World of Mushrooms”, INBio Park, Costa Rica, 2009
+\end{description}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% GitHub Repos
+
+\section{\mysidestyle Selected GitHub \\Repositories}
+
+\begin{description}
+\setlength{\itemsep}{3pt}
+
+\item [\href{https://github.com/macmanes-lab/DoveParentsRNAseq}{DoveParentsRNAseq}] This GitHub repository where I exploring molecular variation in the hypothalamus, pituitary, and gonads of male and female rock doves while they raise offspring.
+
+%\item [\href{https://github.com/raynamharris/DissociationTest}{DissociationTest}] My reproducible workflow for testing the influence of cellular dissociation on hippocampal gene expression.
+
+\item [\href{https://github.com/raynamharris/IntegrativeProjectWT2015}{IntegrativeProjectWT2015}] My reproducible workflow to identify links between transcriptional variation in the mouse hippocampus and avoidance learning.
+
+\item [\href{https://github.com/raynamharris/Thesis}{Thesis}] This GitHub repository turns my thesis into a website that for easy reading and data exploraiton.
+
+%\item [\href{https://github.com/swcarpentry/instructor-training}{instructor-training}] The collaboratively developed teaching materials for the Software Carpentry and Data Carpentry Instructor Training Course. I am the top 4th of 61 contributors. \\ \url{https://github.com/swcarpentry/instructor-training}
+
+%\item [\href{https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter}{publication-RR-Jupyter}] The collaboratively developed teaching materials for a Reproducible Research Course using Jupyter Notebooks.\\ \url{https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter}
+
+\end{description}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+% social media
+
+\section{\mysidestyle Social Media\\and Blogs}
+
+\begin{description}{}{
+\setlength{\leftmargin}{1cm}%% Make sure to pick a fixed value here. 
+\setlength{\itemindent}{-1cm}
+%\setlength{\labelwidth}{\leftmargin-\labelsep}
+}
+\setlength{\itemsep}{3pt}
+\item[Twitter:] Personal \href{http://twitter.com/raynamharris}{@raynamharris}, Data Commons \href{https://twitter.com/nih_dcppc}{@nih\_dcppc}, and \textit{I Can Science} \href{https://twitter.com/i_can_science}{@i\_can\_science}
+\item[Blog:] \url{https://www.raynamharris.com/blog/}, \url{https://medium.com/@raynamharris/}. \item[Selected blog posts:]
+\href{https://www.raynamharris.com/blog/colab-convos/}{Collaborative Conversational Classrooms}, 
+\href{https://www.raynamharris.com/blog/cefpnetworking/}{Ten Networking Strategies for Community Managers}, 
+\href{https://www.raynamharris.com/blog/lessontranslation/}{Data Carpentry Python Ecology Lesson Translated Into Spanish},  \href{https://www.raynamharris.com/blog/spanishTTT/}{Three Years in the Making for Instructor Training in Latin America} 
+
+\end{description}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% references
+%\section{\mysidestyle References}
+%{\em References available upon request.}
+
+
+%%%%%%%%%%%%%%
+\vspace{0.7 cm}
+{\centerline {Rayna M. Harris - Page 3 of 4}}
+\newpage
+%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% teaching
+    
+\section{\mysidestyle Teaching}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+% Education publications
+
+{\bf Lesson Development}
+\begin{itemize}
+\raggedright
+
+\item[--] The Carpentries: Instructor Training
+\item[--] Data Carpentry: Python usando datos de ecología % \url{http://doi.org/10.5281/zenodo.2536379}
+\item[--] Software Carpentry: La Terminal de Unix  %\url{http://doi.org/10.5281/zenodo.1197332}
+\item[--] Software Carpentry: Control de Versiones con Git   %\url{http://doi.org/10.5281/zenodo.1198732}
+\item[--] Neural Systmes and Behavior: Integrative Molecular Neuroscience Module %\url{http://doi.org/10.5281/zenodo.60725} 
+
+\end{itemize}
+
+
+{\bf Guest Lecturer}
+\begin{itemize}
+\item[--] Biomedical Research Seminars (NSM9) Sacramento State University (2020)
+\item[--] Meet and Analyze Data (MAD), UC Davis (2020)
+\item[--] Biological Science for Social Justice (NPB 13), UC Davis (2019) \href{https://speakerdeck.com/raynamharris/biological-science-for-social-justice-democratizing-data-science}{\textbf{Slides}}
+\item[--] Comparative Animal Physiology (BIO 361T), UT Austin (2016) \href{https://www.slideshare.net/raynamharris/evolution-of-social-brains}{\textbf{Slides}}
+\item[--] Principles of Neuroscience (NEU 482T), UT Austin (2014) \href{https://www.slideshare.net/raynamharris/harris-rm-2014-sensory-integration-and-behavior}{\textbf{Slides}}
+\item[--] Introduction to Biological Statistics, UT Austin (2014)
+\item[--] Neurobiology of Social Behavior, University of the Republic of Uruguay (2013)
+\end{itemize}
+
+{\bf Lead or Co-Lead Instructor }
+\begin{itemize}
+\raggedright
+\item[--] El control de versiones con Git Software Carpentry (2018)
+\item[--] Instructor Training, Software Carpentry and Data Carpentry (2016 – present)
+\item[--] Integrative Molecular Neuroethology, Neural Systems \& Behavior Course (2013 - 2017)
+\item[--] Introduction to Git for Bioinformatics, UT Austin (2017)
+\item[--] Introduction to Unix and R, for Bioinformatics, UT Austin (2016)
+\item[--] The UNIX Shell and Version Control with Git, Software Carpentry (2015)
+\item[--] Introduction to Spanish, Futura Language Professionals (2008 - 2009)
+\end{itemize}
+
+{\bf Teaching Assistant}
+\begin{itemize}
+\item[--] Children's Ski and Snowboard School, Northstar California Resort (winter 2019-2020)
+\item[--] Biostatistics (SDS 328M), UT Austin (2017)
+\item[--] Introduction to Core Next-generation Sequencing Tools, UT Austin (2015, 16, 17)
+\item[--] Problems in Modern Biology (BIO 301E), UT Austin (2013)
+\item[--] Organic Chemistry Laboratory (CH 210C), UT Austin (2007-2009)
+\item[--] Advanced Organic Chemistry Laboratory (CH 118K/L), UT Austin (2007)
+\end{itemize}
+
+
+%%%%%%%%%%%%%%
+\vspace{11 cm}
+{\centerline {Rayna M. Harris - Page 4 of 4}}
+%%%%%%%%%%%%%%
+
+
+\end{resume}
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EOF
+

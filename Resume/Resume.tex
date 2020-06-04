@@ -1,0 +1,230 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.1 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+% TODO:
+% 1. Integrate biber/bibtex for article citation under publications.
+% 2. Figure out a smoother way for the document to flow onto the next page.
+% 3. Add styling information for a "Projects/Hacks" section.
+% 4. Add location/address information
+% 5. Merge OpenFont and MacFonts as a single sty with options.
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the
+% vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{deedy-resume-openfont}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\namesection{}{Rayna M. Harris}{ \quad
+\href{mailto:rayna.harris@gmail.com}{rayna.harris@gmail.com} \quad  512.657.2964
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.2\textwidth} 
+
+\section{Profile} 
+
+\vspace{0.9 cm}
+
+\section{Education} 
+
+\vspace{1.775 cm}
+
+\section{Experience}
+
+\vspace{15.2 cm}
+
+\section{Honors \& Awards} 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.79\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROFILE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace{0.16 cm}
+
+A scientist living in Truckee, looking for part-time work 
+
+An enthusiastic, snowboarder, wakeboarder, hiker, paddleboarder, and climber
+
+A fluent English and Spanish speaker 
+
+\sectionsep
+\sectionsep 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\subsection{The University of Texas at Austin}
+\descript{Ph.D. Cell \& Molecular Biology, Dec. 2017 }
+
+\sectionsep
+
+\subsection{The University of Texas at Austin}
+\descript{B.S. Biochemistry, Dec. 2006}
+
+\sectionsep
+\sectionsep 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\runsubsection{The University of California, Davis}
+\location{Apr 2018 – present | Remote}
+\descript{Postdoctoral scholar}
+\begin{tightemize}
+\item Conduct research to understand how the brain changes when parents care for offspring
+\item Develope software for reproducible research
+\item Organize scientific meetings (including logistics, catering, and programming) 
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{Vail Resorts, Northstar }
+\location{Dec 2019 - Mar 2020 | Truckee, CA }
+\descript{Teaching assistant, Children's Ski and Showboard School }
+\begin{tightemize}
+\item Assisted with check-in, ski yard set up, lunch routines, and guest services
+\item Provided magic carpet assistance and helped supervise children on the moutain
+\end{tightemize}
+\sectionsep
+
+
+
+%\runsubsection{Software Carpentry \& Data Carpentry}
+%\location{Jan 2015 – Dec 2019 | Remote }
+%\descript{Volunteer Instructor}
+%\begin{tightemize}
+%\item Co-taught hands-on workshops for data science and computational biology 
+%\item Co-taught instructor training workshops online 
+%\item Translated educational materials into Spanish
+%\end{tightemize}
+%\sectionsep
+
+\runsubsection{The University of Texas at Austin}
+\location{Oct 2008 – Dec 2017 | Austin, TX}
+\descript{Graduate Student}
+\begin{tightemize}
+\item Conducted scientific research to learn how memories are stored in the brain
+\item Supervised undergraduate researchers in the laboratory
+\item Taught undergraduate students biology and statistics
+\item Published manuscripts, wrote blog posts, and gave public lectures
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Futura Language Professionals}
+\location{Oct 2008 - May 2009 | Austin, TX }
+\descript{After-school Spanish teacher}
+\begin{tightemize}
+\item Taught spanish to 1st - 3rd graders
+\item Wrote a weekly newsletter for parents
+\end{tightemize}
+\sectionsep
+
+\runsubsection{The University of Texas at Austin}
+\location{Jan 2007 - Dec 2009 | Austin, TX }
+\descript{Teaching Specialist}
+\begin{tightemize}
+\item Supervised over 200 undergraduate students in experimental Organic Chemistry Laboratory courses 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{The Flower Bucket}
+\location{Aug 2005 - Dec 2008 | Austin, TX}
+\descript{Receptionist}
+\begin{tightemize}
+\item Answered phones provided customer assistance
+\item Cared for tropical and native plants
+\item Assisted with buying and pricing plants and floral accessories
+\end{tightemize}
+\sectionsep
+
+\sectionsep
+\sectionsep 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{tabular}{ll}
+% 2017 & Berkeley Data Science Institute Fellowship \\
+2016 & Elected to the Software Carpentry Steering Committee\\
+2016 & University Graduate Continuing Fellowship\\
+2016 & Outstanding Graduate Student Academic Employee Award\\
+% 2015 & Grant in Aid of Research  \\
+2014,15,16 & Academic Enrichment Fund Award  \\
+2004 & International Education Scholarship \\
+\end{tabular}
+\sectionsep
+
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}

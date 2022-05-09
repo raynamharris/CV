@@ -5,4 +5,4 @@ Both were made with Overleaf, and the source code is available in the CV and Res
 
 An (out-of-date) markdown version of my CV is available on my website at [https://www.raynamharris.com/CV/](https://www.raynamharris.com/CV/).
 
-A fancy autogenearted form of my CV is available at [CV-RMH.pdf](./CV-RMH.pdf).git 
+A fancy auto-generated form of my CV is available at [CV-RMH.pdf](./CV-RMH.pdf).git 

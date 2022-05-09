@@ -46,7 +46,7 @@ tribble(
 
 # Education
 
-```{r education, include = TRUE}
+```{r education, include = F}
 
 tribble(
   ~Year, ~Type, ~Desc, 
@@ -59,6 +59,19 @@ tribble(
     Desc
   )
 
+```
+
+```{r education-orcid }
+orcid_data <- do.call("rbind",
+  rorcid::orcid_educations("0000-0002-7943-5650")$`0000-0002-7943-5650`$`affiliation-group`$summaries
+)
+
+orcid_data %>%
+  detailed_entries(
+    what = `education-summary.role-title`,
+    when = glue::glue("{`education-summary.start-date.year.value`} - {`education-summary.end-date.year.value`}"),
+    with = `education-summary.organization.name`
+  )
 ```
 
 # Experience
@@ -141,5 +154,6 @@ scholar::get_publications("_bVy9pMAAAAJ&hl")  %>%
   )
 
 ```
+
 
 

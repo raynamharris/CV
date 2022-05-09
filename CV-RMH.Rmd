@@ -120,21 +120,7 @@ tribble(
 
 ```
 
-# R Packages
 
-```{r rpkgs}
-
-pkgsearch::pkg_search("datos Traduce al", size = 100) %>%
-  filter(package == "datos")  %>%
-
-  brief_entries(
-    what = paste(package, title, sep = ": "),
-    when = lubridate::year(date),
-    with = paste(downloads_last_month, " downloads last month",  sep = ""),
-  )
-
-
-```
 
 # Publications
 
@@ -154,5 +140,33 @@ scholar::get_publications("_bVy9pMAAAAJ&hl")  %>%
 
 ```
 
+# R Packages
+
+```{r rpkgs}
+
+pkgsearch::pkg_search("datos Traduce al", size = 100) %>%
+  filter(package == "datos")  %>%
+
+  brief_entries(
+    what = paste(package, title, sep = ": "),
+    when = lubridate::year(date),
+    with = paste(downloads_last_month, " downloads last month",  sep = ""),
+  )
+
+
+```
+
+# Presentations (available at speakerdeck.com/raynamharris)
+
+
+```{r presies}
+
+read.table("speakerdeck.txt", sep = ";", header = 1) %>%
+  vitae::brief_entries(
+    with = Where,
+    when = Year,
+    what = Title
+  )
+```
 
 

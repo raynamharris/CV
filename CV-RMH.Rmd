@@ -5,12 +5,13 @@ position: "Postdoctoral Scholar, University of California, Davis"
 #address:  
 #phone:  
 www: raynamharrs.com
-email: "rmharris@ucdavis.edu"
+#email: "rmharris@ucdavis.edu"
 twitter: raynamharris
 github: raynamharris
 #linkedin: raynamharris
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::moderncv
+fontsize: 10pt
 ---
 
 ```{r setup, include=FALSE}
@@ -20,8 +21,7 @@ library(rorcid)
 library(tibble)
 library(scholar)
 library(tidyverse)
-
-
+library(pkgsearch)
 ```
 
 
@@ -96,7 +96,7 @@ tribble(
 
   "2016", "Society for Integrative and Comparative Biology Grant in Aid of Research", " ",
   "2014, 15, 16", "Academic Enrichment Fund Award", " ",
-  "2013, 11, 15", "Honorable mention, National Science Foundation Graduate Research Fellowship", " ",
+ # "2013, 11, 15", "Honorable mention, National Science Foundation Graduate Research Fellowship", " ",
 ) %>% 
   vitae::brief_entries(
     Type,
@@ -106,6 +106,21 @@ tribble(
 
 ```
 
+# R Packages
+
+```{r rpkgs}
+
+pkgsearch::pkg_search("datos Traduce al", size = 100) %>%
+  filter(package == "datos")  %>%
+
+  brief_entries(
+    what = paste(package, title, sep = ": "),
+    when = lubridate::year(date),
+    with = paste(downloads_last_month, " downloads last month",  sep = ""),
+  )
+
+
+```
 
 # Publications
 
@@ -126,4 +141,5 @@ scholar::get_publications("_bVy9pMAAAAJ&hl")  %>%
   )
 
 ```
+
 

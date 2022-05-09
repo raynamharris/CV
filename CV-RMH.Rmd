@@ -1,6 +1,6 @@
 ---
-name: Rayna M.
-surname: Harris
+name: 
+surname: Rayna M. Harris
 position: "Postdoctoral Scholar, University of California, Davis"
 #address:  
 #phone:  
@@ -11,7 +11,8 @@ github: raynamharris
 #linkedin: raynamharris
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::moderncv
-fontsize: 10pt
+fontsize: 11pt
+headcolor: "000000"
 ---
 
 ```{r setup, include=FALSE}
@@ -67,7 +68,7 @@ orcid_data <- do.call("rbind",
 )
 
 orcid_data %>%
-  detailed_entries(
+  brief_entries(
     what = `education-summary.role-title`,
     when = glue::glue("{`education-summary.start-date.year.value`} - {`education-summary.end-date.year.value`}"),
     with = `education-summary.organization.name`
@@ -145,12 +146,10 @@ scholar::get_publications("_bVy9pMAAAAJ&hl")  %>%
   drop_na(year) %>%
   arrange(desc(year)) %>%
   mutate(author = gsub("\\...", "et al.", author)) %>%
-  vitae::detailed_entries(
-    what = title,
+  vitae::brief_entries(
+    with = paste(journal, number, ". ", cites, " citations.", sep = " "),
     when = year,
-    with = author,
-    where = journal, 
-    .protect = TRUE
+    what = paste(author, title, sep = ", ")
   )
 
 ```

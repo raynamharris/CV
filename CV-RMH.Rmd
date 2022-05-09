@@ -19,55 +19,107 @@ library(vitae)
 library(rorcid)
 library(tibble)
 library(scholar)
-library(dplyr)
+library(tidyverse)
 
 
 ```
 
 
-```{r, include = F}
 
-# Nobel Prizes
+
+```{r, include = FALSE}
+
+# Marie Curie Nobel Prizes
 
 tribble(
   ~Year, ~Type, ~Desc,
   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
   1911, "Chemistry", "Awarded for the discovery of radium and polonium"
 ) %>% 
-  brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
+  vitae::brief_entries(
+    Type,
     Year, 
     Desc
   )
 ```
 
 
-# Publications
+# Education
 
+```{r education, include = TRUE}
 
-```{r googlescholar, include = F}
-pubs <- scholar::get_publications("_bVy9pMAAAAJ&hl") %>% 
-  dplyr::mutate(author = author %>% 
-                  as.character %>% 
-                  stringr::str_trim(),
-                journal = journal %>% 
-                  replace(journal %in% "bioRxiv", "BioRxiv"), 
-                first_author = dplyr::case_when(stringr::str_starts(author, "L Mouselimis") ~ TRUE,
-                                         TRUE ~ FALSE),
-                preprint = dplyr::case_when(journal %in% c("bioRxiv", "BioRxiv") ~ TRUE,
-                                     TRUE ~ FALSE)) %>% 
-  dplyr::arrange(desc(year))
+tribble(
+  ~Year, ~Type, ~Desc, 
+  "2002 - 2006", "B.S.", "Biochemistry, The University of Texas at Austin", 
+  "2012 - 2017", "Ph.D.", "Cell and Molecular Biology, The University of Texas at Austin"
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
 ```
+
+# Experience
+
+```{r, include = TRUE}
+
+tribble(
+  ~Year, ~Type, ~Desc,
+  "2021 - 2022", "Postdoctoral Scholar", " University of California, Davis",
+  "2021 - 2022", "Parking Supervisor", "Alpine Meadows Ski Resort ",
+  "2020 - 2021", "Nursery Supervisor", "Rock & Rose Nursery & Landscaping ",
+  "2018 - 2019", "Postdoctoral Scholar", " University of California, Davis",
+  "2010 - 2012", "Laboratory Manager", "The University of Texas at Austin",
+  "2007 - 2010", "Teaching Specialist", "The University of Texas at Austin",
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
+```
+
+
+# Honors and Awards
+
+```{r, include = TRUE}
+
+tribble(
+  ~Year, ~Type, ~Desc,
+  "2019", "AAAS Community Engagement Fellowship", " ",
+  "2019", "rstudio::conf 2019 Diversity Scholarship", " ",
+  "2017", "Outstanding Graduate Student Academic Employee Award", "  ",
+  "2016, 17", "University Graduate Continuing Fellowship", " ",
+
+  "2016", "Society for Integrative and Comparative Biology Grant in Aid of Research", " ",
+  "2014, 15, 16", "Academic Enrichment Fund Award", " ",
+  "2013, 11, 15", "Honorable mention, National Science Foundation Graduate Research Fellowship", " ",
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
+```
+
+
+# Publications
 
 
 
 ```{r}
 
 scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
+  drop_na(year) %>%
+  arrange(desc(year)) %>%
   mutate(author = gsub("\\...", "et al.", author)) %>%
   vitae::detailed_entries(
     what = title,
-    when = as.character(year),
+    when = year,
     with = author,
     where = journal, 
     .protect = TRUE

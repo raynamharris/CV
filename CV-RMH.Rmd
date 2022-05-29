@@ -1,0 +1,172 @@
+---
+#name:
+surname: Dr. Rayna M. Harris
+position: "Postdoctoral Scholar, University of California, Davis"
+#address:  
+#phone:  
+www: raynamharrs.com
+#email: "rmharris@ucdavis.edu"
+twitter: raynamharris
+github: raynamharris
+#linkedin: raynamharris
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+fontsize: 11pt
+headcolor: "000000"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(rorcid)
+library(tibble)
+library(scholar)
+library(tidyverse)
+library(pkgsearch)
+```
+
+
+
+
+```{r, include = FALSE}
+
+# Marie Curie Nobel Prizes
+
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+```
+
+
+# Education
+
+```{r education, include = F}
+
+tribble(
+  ~Year, ~Type, ~Desc, 
+  "2002 - 2006", "B.S.", "Biochemistry, The University of Texas at Austin", 
+  "2012 - 2017", "Ph.D.", "Cell and Molecular Biology, The University of Texas at Austin"
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
+```
+
+```{r education-orcid }
+orcid_data <- do.call("rbind",
+  rorcid::orcid_educations("0000-0002-7943-5650")$`0000-0002-7943-5650`$`affiliation-group`$summaries
+)
+
+orcid_data %>%
+  brief_entries(
+    what = `education-summary.role-title`,
+    when = glue::glue("{`education-summary.start-date.year.value`} - {`education-summary.end-date.year.value`}"),
+    with = `education-summary.organization.name`
+  )
+```
+
+# Experience
+
+```{r, include = TRUE}
+
+tribble(
+  ~Year, ~Type, ~Desc,
+  "2021 - 2022", "Postdoctoral Scholar", " University of California, Davis",
+  "2021 - 2022", "Parking Supervisor", "Alpine Meadows Ski Resort ",
+  "2020 - 2021", "Nursery Supervisor", "Rock & Rose Nursery & Landscaping ",
+  "2018 - 2019", "Postdoctoral Scholar", " University of California, Davis",
+  "2010 - 2012", "Laboratory Manager", "The University of Texas at Austin",
+  "2007 - 2010", "Teaching Specialist", "The University of Texas at Austin",
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
+```
+
+
+# Honors and Awards
+
+```{r, include = TRUE}
+
+tribble(
+  ~Year, ~Type, ~Desc,
+  "2019", "AAAS Community Engagement Fellowship", " ",
+  "2019", "rstudio::conf 2019 Diversity Scholarship", " ",
+  "2017", "Outstanding Graduate Student Academic Employee Award", "  ",
+  "2016, 17", "University Graduate Continuing Fellowship", " ",
+
+  "2016", "Society for Integrative and Comparative Biology Grant in Aid of Research", " ",
+  "2014, 15, 16", "Academic Enrichment Fund Award", " ",
+ # "2013, 11, 15", "Honorable mention, National Science Foundation Graduate Research Fellowship", " ",
+) %>% 
+  vitae::brief_entries(
+    Type,
+    Year, 
+    Desc
+  )
+
+```
+
+
+
+# Publications
+
+
+
+```{r}
+
+scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
+  drop_na(year) %>%
+  arrange(desc(year)) %>%
+  mutate(author = gsub("\\...", "et al.", author)) %>%
+  vitae::brief_entries(
+    with = paste(journal, number, ". ", cites, " citations.", sep = " "),
+    when = year,
+    what = paste(author, title, sep = ", ")
+  )
+
+```
+
+# R Packages
+
+```{r rpkgs}
+
+pkgsearch::pkg_search("datos Traduce al", size = 100) %>%
+  filter(package == "datos")  %>%
+
+  brief_entries(
+    what = paste(package, title, sep = ": "),
+    when = lubridate::year(date),
+    with = paste(downloads_last_month, " downloads last month",  sep = ""),
+  )
+
+
+```
+
+# Presentations (available at speakerdeck.com/raynamharris)
+
+
+```{r presies}
+
+read.table("speakerdeck.txt", sep = ";", header = 1) %>%
+  vitae::brief_entries(
+    with = Where,
+    when = Year,
+    what = Title
+  )
+```
+
+

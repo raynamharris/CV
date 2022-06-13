@@ -4,7 +4,7 @@ surname: Dr. Rayna M. Harris
 position: "Postdoctoral Scholar, University of California, Davis"
 #address:  
 #phone:  
-www: raynamharrs.com
+www: raynamharris.com
 #email: "rmharris@ucdavis.edu"
 twitter: raynamharris
 github: raynamharris
@@ -28,7 +28,7 @@ library(pkgsearch)
 
 
 
-```{r, include = FALSE}
+```{r example, include = FALSE}
 
 # Marie Curie Nobel Prizes
 
@@ -77,7 +77,7 @@ orcid_data %>%
 
 # Experience
 
-```{r, include = TRUE}
+```{r experience, include = TRUE}
 
 tribble(
   ~Year, ~Type, ~Desc,
@@ -99,7 +99,7 @@ tribble(
 
 # Honors and Awards
 
-```{r, include = TRUE}
+```{r honors, include = TRUE}
 
 tribble(
   ~Year, ~Type, ~Desc,
@@ -126,7 +126,7 @@ tribble(
 
 
 
-```{r}
+```{r publications}
 
 scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
   drop_na(year) %>%

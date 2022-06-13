@@ -124,6 +124,7 @@ tribble(
 
 # Publications
 
+_From Google Scholar <https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl>_  \
 
 
 ```{r publications}
@@ -157,7 +158,9 @@ pkgsearch::pkg_search("datos Traduce al", size = 100) %>%
 
 ```
 
-# Presentations (available at speakerdeck.com/raynamharris)
+# Selected Presentations 
+
+_Available at <https://speakerdeck.com/raynamharris>_  \
 
 
 ```{r presies}

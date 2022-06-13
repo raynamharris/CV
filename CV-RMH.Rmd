@@ -82,9 +82,9 @@ orcid_data %>%
 tribble(
   ~Year, ~Type, ~Desc,
   "2021 - 2022", "Postdoctoral Scholar", " University of California, Davis",
-  "2021 - 2022", "Parking Supervisor", "Alpine Meadows Ski Resort ",
+  "2020 - 2022", "Parking Supervisor", "Alpine Meadows Ski Resort ",
   "2020 - 2021", "Nursery Supervisor", "Rock & Rose Nursery & Landscaping ",
-  "2018 - 2019", "Postdoctoral Scholar", " University of California, Davis",
+  "2018 - 2020", "Postdoctoral Scholar", " University of California, Davis",
   "2010 - 2012", "Laboratory Manager", "The University of Texas at Austin",
   "2007 - 2010", "Teaching Specialist", "The University of Texas at Austin",
 ) %>% 

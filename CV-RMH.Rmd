@@ -131,9 +131,10 @@ tribble(
 scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
   drop_na(year) %>%
   arrange(desc(year)) %>%
+  filter(!str_detect(title, "Isolating")) %>%
   mutate(author = gsub("\\...", "et al.", author)) %>%
   vitae::brief_entries(
-    with = paste(journal, number, ". ", cites, " citations.", sep = " "),
+    with = paste(journal, number, "Citations:", cites,  sep = " "),
     when = year,
     what = paste(author, title, sep = ", ")
   )

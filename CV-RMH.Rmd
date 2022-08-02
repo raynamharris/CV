@@ -144,21 +144,27 @@ tribble(
 ```
 
 
-# Publications
+# Selected Publications
 
+
+_Available at <https://scholar.google.com/citations?user=_bVy9pMAAAAJ&hl=en>_ \
 
 ```{r publications}
 
-scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
+pubs <- scholar::get_publications("_bVy9pMAAAAJ&hl")  %>% 
   drop_na(year) %>%
   arrange(desc(year)) %>%
   filter(!str_detect(title, "Isolating")) %>%
+  filter(!str_detect(title, "findability")) %>%
+  #filter(str_detect(author, "^RM")) %>%
+  filter(grepl("Parental|Common|Ten|hippocampal|Complex|radiation", title)) %>%
   mutate(author = gsub("\\...", "et al.", author)) %>%
   vitae::brief_entries(
     with = paste(journal, number, "Citations:", cites,  sep = " "),
     when = year,
     what = paste(author, title, sep = ", ")
   )
+pubs
 
 ```
 

@@ -1,7 +1,7 @@
 ---
 #name:
 surname: Dr. Rayna M. Harris
-position: "Postdoctoral Scholar, University of California, Davis"
+position: "Scientist, Educator, Community Engagement Manager"
 #address:  
 #phone:  
 www: raynamharris.com

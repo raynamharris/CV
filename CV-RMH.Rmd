@@ -107,8 +107,6 @@ tribble(
   "2019", "rstudio::conf 2019 Diversity Scholarship", " ",
   "2017", "Outstanding Graduate Student Academic Employee Award", "  ",
   "2016, 17", "University Graduate Continuing Fellowship", " ",
-
-  "2016", "Society for Integrative and Comparative Biology Grant in Aid of Research", " ",
   "2014, 15, 16", "Academic Enrichment Fund Award", " ",
  # "2013, 11, 15", "Honorable mention, National Science Foundation Graduate Research Fellowship", " ",
 ) %>% 
@@ -126,7 +124,7 @@ tribble(
 
 tribble(
   ~Year, ~Type, ~Desc,
-  "2012 - 2021", "Peer-reviewer", "AAS  Open  Research; Behavioral Ecology; Genes, Genomes & Genetics; Genes, Brains & Behavior; Journal of Experimental Zoology Part A; Nature; Physiology & Behavior; Proceedings of the Royal Society B; rOpenSci",
+  "2022", "Volunteer", "Tahoe Institute for Natural Science",
   "2019", "Coordinator", "I Can Science, a National Geographic Video Series",
   "2018 - 2019", "Spanish Translator", "The Carpentries",
   "2017 - 2018", "Secretary", "Software Carpentry Steering Committee",
@@ -134,7 +132,8 @@ tribble(
   "2012 - 2017", "Coordinator", "Annual Big Data in Biology Symposium",
   "2014 - 2016", "Coordinator", "Summer School for Big Data in Biology",
   "2014", "Coordinator", "Transdisciplinary Graduate Student Luncheon",
-  "2009", "Spanish Translator", "INBio Park, Costa Rica") %>% 
+  "2009", "Spanish Translator", "INBio Park, Costa Rica",
+  " ", "Peer-reviewer", "AAS  Open  Research; Behavioral Ecology; Genes, Genomes & Genetics; Genes, Brains & Behavior; Journal of Experimental Zoology Part A; Nature; Physiology & Behavior; Proceedings of the Royal Society B; rOpenSci",) %>% 
   vitae::brief_entries(
     Type,
     Year, 
@@ -157,7 +156,8 @@ pubs <- scholar::get_publications("_bVy9pMAAAAJ&hl")  %>%
   filter(!str_detect(title, "Isolating")) %>%
   filter(!str_detect(title, "findability")) %>%
   #filter(str_detect(author, "^RM")) %>%
-  filter(grepl("Parental|Common|Ten|hippocampal|Complex|radiation", title)) %>%
+  filter(grepl("Parental|Common|Ten|hippocampal|Complex|radiation|Amazon", 
+               title)) %>%
   mutate(author = gsub("\\...", "et al.", author)) %>%
   vitae::brief_entries(
     with = paste(journal, number, "Citations:", cites,  sep = " "),
